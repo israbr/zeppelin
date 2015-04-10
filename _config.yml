@@ -51,7 +51,7 @@ rightNavigationButtons:
 heroImage: "hero.png"
 heroTitle: "Android Xtended"
 eventDate: "16 de Mayo, 2015"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "/#tickets", text: "Consigue tu entrada"}
