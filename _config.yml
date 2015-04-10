@@ -48,14 +48,13 @@ rightNavigationButtons:
  - {link: "https://www.ticketea.com/androidxtended/", text: "Entradas"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroImage: "hero.png"
+heroTitle: "Android Xtended"
+eventDate: "16 de Mayo, 2015"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
