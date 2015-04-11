@@ -77,7 +77,7 @@ rockstarSpeakersTitle: "Nuestros ponentes"
 rockstarSpeakersButtonText: "Ver más"
 
 # Location Block
-locationBlockTitle: "Dónde encontrarnos?"
+locationBlockTitle: "Dónde?"
 eventLocationName: "Espacio res"
 eventLocationLink: "http://espaciores.org/"
 eventStreetAddress: "Avenida República Argentina, 25"
@@ -108,7 +108,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizan"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
