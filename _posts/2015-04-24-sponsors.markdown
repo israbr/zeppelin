@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Nuevos Patrocinadores"
+date:   2015-04-24 09:00:00
+isStaticPost: false
+---
+
+Es un orgullo y satisfacción poder darle la bienvenida al equipo de [47Degrees](http://www.47deg.com/) al AndroidXtended!!
+Gracias a ellos tendremos un par de sorpresitas que os iremos anunciando a medida que nos acerquemos al dia X.
+
+Ya no queda nada!!!
+
+
+#### Alguna pregunta?
+Ponte en contacto con nosotros en [contacto@androidXtended.com](mailto:contacto@androidXtended.com) o a través de twitter <b>#AndroidXtended</b>

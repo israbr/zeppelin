@@ -6,54 +6,76 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Pausa para comer"
   place: "Dining room"
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Android, The Clean Way"
+  description: "Software mantenible y testeable, startups que pivotan constantemente, aplicaciones que llegan a ser mucho más de lo que se planifico en su principio... Si trabajas en producto todo esto te sonara y los problemas que genera. En la Clean Architecture he encontrado una solución a esta realidad en la creación de productos software y te contaremos como lo estamos haciendo para las nuevas versiones de la app de Jobandtalent."
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "Intermedia"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Cosas a tener en cuenta si dices ser desarrollador Android"
+  description: "Enumeración de herramientas a usar y algunos trucos de Android Studio. Cosas de diseño a tener en cuenta y más si no tienes diseñador. Naming de código en Android. Librerías
+  que has de conocer. Poner en práctica algunas de estos conceptos bajo código(cualquier aplicación de Google open source puede valer para esto)."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  language: es
+  complexity: "Intermedia" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 003
+  title: "Effective Android UI"
+  description: "Trabajar sobre activities, fragments, layouts o views puede ser un trabajo arduo y doloroso. Aplicar buenas prácticas, no cometer los errores más típicos, cuándo y cómo hacer una custom view o qué patrones aplicar (MVP o MVVM) para mejorar la calidad del código sobre el que trabajamos serán algunos de los temas a tratar a lo largo de esta charla."
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Intermedia" 
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Persistiendo que es gerundio"
+  description: "Formas de guardar información, algunos frameworks interesantes que usar y cuando usarlos, cómo enmascarar el accesso a datos y cómo trabajar en modo sin conexión."
   subtype: keynote
   speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: es
+  complexity: "Intermedia"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  id: 010
+  title: "Mob programming Inyección de dependencias"
+  description: "En esta sesión trataremos de aplicar DI a un código existente. Buscaremos las diferentes responsabilidades que tienen las clases, y veremos como separarlas aplicando DI."
+  subtype: workshop
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: es
+  complexity: "Intermedia"
+-
+  id: 011
+  title: "Mob programming Testing"
+  description: "Escribiremos tanto tests al estilo de BDD (concentrandonos en el valor de negocio y tratando la app como una caja negra), como tests que se aislan del framework de Android y pueden correr como
+  tests normales en Java."
+  subtype: workshop
+  speakers: [7]
+  language: es
+  complexity: "Intermedia"
+-
+  id: 012
+  title: "Mob programming Gradle"
+  description: "Veremos cómo hacer que Gradle automatice tareas. Entre ellas estarán la firma del APK o excluir ficheros de posibles librerías que empleemos."
+  subtype: workshop
+  speakers: [7]
+  language: es
+  complexity: "Intermedia"
+-
+  id: 013
+  title: "The Secrets to App Success on Google Play"
+  description: "A guide to useful features, tips, and best practices that will help you grow a successful app business on Google Play. Readability: The guide is most easily read in the Google Play Books app with your
+  device in landscape orientation and the single-page view enabled in the settings. Publishing your app on Google Play is a good start to reaching users but is only the first step if you want to grow a thriving,
+  sustainable app business. That’s why we've written a guide, called “The Secrets to App Success on Google Play”, a detailed playbook on the best practices and tools you can use to maximize the reach, retention, and revenue of your new app. Thanks for the feedback about the format. We'll take that into account for future editions."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: "Intermedia"

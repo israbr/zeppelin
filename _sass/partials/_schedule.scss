@@ -120,6 +120,18 @@ $small-label-width: 80px;
 .track-header-title {
     @extend .slot-title;
 }
+.slot-sedes-title {
+    font-size: 22px;
+    font-weight: $bold;
+    margin: 0;
+    padding-right: 20px;
+    @media (max-width: 767px) {
+        font-size: 18px;
+    }
+}
+.track-sedes-header-title {
+    @extend .slot-sedes-title;
+}
 .track-header-slot {
     padding: 10px 15px 10px;
     text-align: left;

@@ -1,67 +1,76 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "José Manuel"
+  surname: "Pereira García"
+  company: "Jobandtalent"
+  title: "Senior Android Developer"
+  bio: "Con más de 3 años de experiencia como Mobile Team Lead y Android Developer y 6 en el mundo del software ahora enfoco mi esfuerzo como Senior Android Developer en el equipo de JobAndTalent. Apasionado de la tecnología, la innovación, el software libre y la comunidad comparto experiencias a través de iniciativas como AndroCode (blog que fundé en Octubre de 2011), ponencias o anteriormente como organizador del GDG Barcelona."
+  thumbnailUrl: JoseManuelPereiraGarcia.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoséMPereira"}
+    - {name: "twitter", link: "https://twitter.com/JMPergar"}
+    - {name: "site", link: "http://t.co/GbV12ivEvt"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Inmaculada"
+  surname: "Alcón Piñero"
+  company: "Module-7"
+  title: "Senior Android Developer"
+  bio: "Android developer. Creo aplicaciones para hacer la vida más fácil. Me esfuerzo en generar código de calidad y en crear buenas experiencias de usuario gracias a mis estudios, experiencia profesional y mi curiosidad personal.
+        Pertenezco al proyecto Tech&Ladies que propone dar visibilidad a las mujeres que trabajan en tecnología rompiendo con el paradigma actual. También soy redactora en el blog Androcode sobre desarrollo en Android."
+  thumbnailUrl: InmaculadaAlconPiñero.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+InmaAlcón"}
+    - {name: "twitter", link: "https://twitter.com/inmaculadaalcon"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Pedro Vicente"
+  surname: "Gómez Sánchez"
+  company: "Karumi"
+  title: "Android Expert"
+  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Karumi como Android Expert. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
+  thumbnailUrl: PedroVicenteGomezSanchez.png
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/113580734717729548552"}
+    - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
+    - {name: "github", link: "http://www.github.com/pedrovgs"}
+
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Jorge"
+  surname: "Barroso"
+  company: "Karumi"
+  title: "Android expert"
+  bio: "Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo deandroid core. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
+  thumbnailUrl: JorgeBarroso.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JorgeJBarroso"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Android Xtended"
+  surname: ""
+  company: "GDG Sevilla"
+  title: ""
+  bio: "Esto será una sesión de <a href='http://en.wikipedia.org/wiki/Mob_programming'>mob programming</a>. No te olvides de traer tu portátil para que puedas aprovechar al máximo la sesión."
+  thumbnailUrl: GDG_square_lg_right.svg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/117186888160178861350/"}
+    - {name: "twitter", link: "https://twitter.com/GDGSevilla"}
+-
+  id: 8
+  name: "Andrés Leonardo"
+  surname: "Martinez Ortiz"
+  company: "Google"
+  title: "Developer Program Manager"
+  bio: "Andrés Leonardo Martínez Ortiz pertenece al Grupo de Ingeniería de Google, cuya labor se centra en comunicar, trasladar, formar y enseñar la posibilidades que ofrece la tecnología de Google. Con amplia experiencia en sectores de I+D+i relacionados con las Telecomunicaciones y la Ingeniería del Software, ha estado siempre trabajando en el desarrollo, la transferencia y la promoción de tecnologías innovadoras. Ha participado en la mayoría de las etapas de I+D+i, incluyendo desarrollo de software, gestión de proyectos, definición de producto, marketing y desarrollo de negocio, y de hecho fundó un par de startups. Estuvo algún tiempo trabajando en Telefónica I+D y también fue profesor de la universidad Rey Juan Carlos, donde enseñaba sistemas distribuidos, sistemas embebidos, robótica y programación. Durante todo ese tiempo, se centró en las estrategias, planificación e implementación de proyectos de innovación profundamente relacionados con los paradigmas de las tecnologías de código abierto, en los que las comunidades de desarrolladores y terceras partes juegan un papel importante. En particular, en los últimos cinco años ha estado diseñando estrategias para fomentar la participación de estudiantes universitarios, empresarios y PYMEs en las nuevas tecnologías. Es miembro de comunidades científicas como la ACM o el IEEE Computer Society."
+  thumbnailUrl: AndresLeonardo.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/davilagrau"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/aleonar"}
