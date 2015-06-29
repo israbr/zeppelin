@@ -43,6 +43,7 @@ navigationLinks:
  - {permalink: "/#aboutTv", text: "¿En qué consiste?"}
  - {permalink: "/#aboutConcurso", text: "Concurso"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
+ - {permalink: "/#partners", text: "Organizan"}
 bottomNavigationLinks:
  - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
 rightNavigationButtons:
@@ -50,10 +51,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Android Tv Garage"
-eventDate: "4 de Julio, 2015"
-heroButtons:
- - {permalink: "/#tickets", text: "Consigue tu entrada"}
+#heroTitle: "Android Tv Garage"
+#eventDate: "4 de Julio, 2015"
 
 # About Block
 aboutTitle: "¿Qué es Android Tv Garage?"
@@ -168,15 +167,3 @@ findWayTransit: "Autobus"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "judges.jpg"
-directionDetailsTitle: "Qué necesito?"
-directionDetailsCards:
- - {title: "Entrada", information: 'Sin esto, las dos replicas gigantes del robot de Android que hemos instalado en la entrada no te dejaran pasar. Consigue la <a href="https://www.ticketea
- .com/androidxtended/">tuya</a> antes de que se agoten.'}
- - {title: "Portátil", information: 'Los talleres son parte del evento y no se simultanean con ninguna charla. Si quieres sacarle el máximo provecho a la experencia no te lo dejes en casa.'}
-
-hackathonPlaceCoordinates: ""
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
