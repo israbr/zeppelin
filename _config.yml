@@ -10,26 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Android Xtended"
-email: "contacto@androidxtended.com"
-description: "Un dia entero para compartir y aprender sobre Android"
-baseurl: ""
-url: "http://www.androidxtended.com"
-permalink: "/blog/:title"
+title: "Android TV Garage "
+email: "contacto@gdgsevilla.com"
+description: "Sesiones para aprender juntos"
+baseurl: "/zeppelin"
+url: "https://gdgsevilla.github.io"
 googleAnalyticsTrackingId: "UA-61791444-1"
-googleAnalyticsSiteUrl: "www.androidXtended.com"
+#googleAnalyticsTrackingId: "UA-64592177-1"
+googleAnalyticsSiteUrl: "gdgsevilla.github.io"
 siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
+
 
 # Organizer Info
 organizerName: "GDG Sevilla"
 organizerAlternateName: "Google Developer Group Sevilla"
 organizerDescription: "Grupo sin ánimo de lucro cuyo objetivo es el de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías proporcionadas por Google."
-organizerEmail: ""
+organizerEmail: "contacto@gdgsevilla.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/117186888160178861350/about"
 
 # Head
-metaKeywords: "android, evento, gdg, google, android, developers, sevilla, desarrollo, event"
+metaKeywords: "android, evento, gdg, google, android tv, developers, sevilla, desarrollo, event"
 twitterAccount: "@GDGSevilla"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -38,67 +39,47 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Prepárate"}
+ - {permalink: "/#tickets", text: "Entradas"}
+ - {permalink: "/#aboutTv", text: "¿En qué consiste?"}
+ - {permalink: "/#aboutConcurso", text: "Concurso"}
+ - {permalink: "/#location-map", text: "¿Dónde?"}
 bottomNavigationLinks:
- - {link: "https://www.ticketea.com/androidxtended/", text: "Entradas"}
+ - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
 rightNavigationButtons:
- - {link: "https://www.ticketea.com/androidxtended/", text: "Entradas"}
+ - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Android Xtended"
-eventDate: "16 de Mayo, 2015"
+heroTitle: "Android Tv Garage"
+eventDate: "4 de Julio, 2015"
 heroButtons:
  - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
-aboutTitle: "Qué es Android Xtended"
+aboutTitle: "¿Qué es Android Tv Garage?"
 aboutBlock:
  - {title: "Charlas", image: "conference.jpg", text: "Pasa el día aprendiendo de los mejores" }
  - {title: "Talleres", image: "workshop.png", text: "Incluidos en la agenda podras participar en talleres sobre elementos concretos de Android" }
  - {title: "Comunidad", image: "community.png", text: "Charla con los ponentes y otros miembros del sector" }
-
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "100", specialCharacter: "+", info: "asistentes", detail: "de toda Andalucia"}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "de toneladas de información"}
- - {count: "5", specialCharacter: "+", info: "ponentes", detail: "de aqui y de allí"}
-
-# Latest News Block
-latestNewsTitle: "Últimas noticias"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 5
-rockstarSpeakersTitle: "Nuestros ponentes"
-rockstarSpeakersButtonText: "Ver más"
 
 # Location Block
 locationBlockTitle: "Dónde?"
 eventLocationName: "Espacio res"
 eventLocationLink: "http://espaciores.org/"
 eventStreetAddress: "Avenida República Argentina, 25"
-eventLocationName2: "Bitnami"
-eventLocationLink2: "http://bitnami.com/"
-eventStreetAddress2: "Avenida República Argentina, 31B"
-eventAddressLocality: "Sevilla"
-eventAddressLocalityRegion: "Sevilla"
+eventAddressLocality: "cadiz"
+eventAddressLocalityRegion: "huelva"
 eventPostalCode: "41011"
 eventAddressCountry: "España"
-eventStartTime: "2015-05-16T9:30"
-eventDoorTime: "09:30"
-eventEndTime: "2015-05-16T21:00"
+eventStartTime: "2015-06-04T10:30"
+eventDoorTime: "10:30"
+eventEndTime: "2015-06-04T13:30"
 eventPlaceCoordinates: "37.377736,-6.001971"
 mapCenterCoordinates: "37.377736,-6.001971"
 mapMobileCenterCoordinates: "37.377736,-6.001971"
 
 # Venue Block
-venueBlockTitle: "Sede Espacio res"
+venueBlockTitle: "Espacio res"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -106,61 +87,32 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Espacio res"
 venueFeatures: ["6 magnificas terrazas", "Amplio espacio para los asistentes", "Muy bien comunicado"]
 
-# Venue2 Block
-venueBlockTitle2: "Sede Bitnami"
-venueBigImage2: "venue_02.jpg"
-venueSmallImage12: "venue_12.jpg"
-venueSmallImage22: "venue_22.jpg"
-venueSmallImage32: "venue_32.jpg"
-venueTitle2: "Bitnami"
-venueFeatures2: ["makes it incredibly easy to deploy apps with native installers",  "as virtual machines, or in the cloud", " y desde Sevilla!"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.png"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "AndroidXtended"
-twitterFeed: "http://www.androidxtended.com/tweetledee/searchjson.php?q=androidxtd+OR+androidxtnd+OR+androidxtended+OR+androidxtened"
-
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Únete a nosotros"
-c4sponsorsUrl: "mailto:contacto@androidXtended.com"
+c4sponsorsUrl: "mailto:contacto@gdgsevilla.com"
 
 # Tickets Block
-ticketsTitle: "Precio"
-ticketsInfo: "El ticket te da acceso a todas las charlas y talleres."
+tweetsFeedImage: "twitter-feed.png"
+ticketsTitle: "Entrada"
+ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
 -
-  name: "Xtended"
-  price: "10"
+  name: "Community"
+  price: "Grátis"
   priceCurrency: "EUR"
   ticketsNumber: "40"
-  buyButtonLink: "https://www.ticketea.com/androidxtended/"
-  buyButtonText: "Comprar"
+  buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
+  buyButtonText: "Consigue la tuya"
   additionalInfo: ""
-  ticketContentList: ["Accede a todas las charlas y talleres", "Conoce a otros profesionales del sector", "Solo 40 plazas en total"]
+  ticketContentList: ["La entrada solo es válida para la sesión indicada", "Participa", "Solo 40 plazas"]
   validFrom: "2015-04-16T10:00"
-  validThrough: "2015-05-12T23:59"
-  disabled: false
-  soldOut: true
-  soldOutText: "Agotadas!"
-
--
-  name: "Xtended Bitnami"
-  price: "10"
-  priceCurrency: "EUR"
-  ticketsNumber: "50"
-  buyButtonLink: "https://www.ticketea.com/androidxtended/"
-  buyButtonText: "Comprar"
-  additionalInfo: ""
-  featured: true
-  ticketContentList: ["Accede a todas las charlas y talleres en la Sede de Bitnami", "Consulta la agenda para ver los cambios", "Solo 50 plazas!!!!"]
-  validFrom: "2015-04-29T20:00"
   validThrough: "2015-05-12T23:59"
   disabled: false
   soldOut: false
   soldOutText: "Agotadas!"
+  featured: true
 
 # Footer
 socialLinks:
@@ -177,24 +129,34 @@ footerBlocks:
  -
   title: "Contactar"
   links:
-   - {link: "mailto:contacto@androidXtended.com", text: "contacto@androidXtended.com"}
+   - {link: "mailto:contacto@gdgsevilla.com", text: "contacto@gdgsevilla.com"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
-# Blog
-blogTitle: "Últimas noticias"
-blogCommentsEnabled: false
-discusShortName: "AndroidXtended"
+# About tv
+teamBlockTitle: "¿Qué es Android TV Garage?"
+aboutIt: "El Google I/O siempre presenta novedades, también para los GDGs. A raíz del último en Mayo de este año, hemos decidido introducir en España un nuevo formato de evento conocido como GDG Garage, en los cuales vamos a probar nuevas tecnologías y puede que hasta vuelvas a casa con un nuevo dispositivo ;)
 
-# Speakers List Block
-showSessions: true
+          Los Garage son unas jornadas tecnológicas con el objetivo de profundizar en una tecnología en particular, pero en las cuales iremos aprendiendo desarrollando directamente durante la sesión según los intereses de cada uno. No hay profesores ni mentores, tan solo un grupo de gente con ganas de hacer cosas.
 
-# Team Block
-teamBlockTitle: "El Equipo"
-aboutUs: "Creemos firmemente que la mejor forma de aprender y estar al día en esta profesión tan cambiante es compartir. Y como la mejor manera de predicar es con el ejemplo, tratamos de organizar al menos un evento
-al mes sobre temas relacionados con la industria. Si estas son cosas que resuenan contigo, eres mas que bienvenido a formar parte de este equipo."
+          Para poder dar a conocer el formato de una forma sencilla, los GDGs españoles hemos planeado hacer una serie de Garages durante los meses de Junio a Septiembre centrados especialmente en Android TV. Contaremos con algunos dispositivos para poder probar, así como con materiales didácticos facilitados por Google para poder aprender esta tecnología a base de la prueba y error.
+
+          Además, aquellos que lo deseen, se podrán apuntar al concurso de aplicaciones nativas para Android TV (Java) que se estará abierto sólo para los participantes de los GDG Garage (os daremos más información del concurso a parte). Incluso si no participas en el concurso pero ayudas a los concursantes durante los Garages, puedes igualmente conseguir un nuevo dispositivo ;)
+
+          ¿Quién quiere playa con este planazo? ;)"
+
+# About concurso
+statisticBlockImage: "statistic.jpg"
+concursoBlockTitle: "Concurso"
+aboutConcurso: "En el concurso pueden participar cualquiera de los asistentes a los Garages, en equipos de dos personas, que deberán desarrollar y publicar antes de la última sesión una aplicación Android TV nativa (Java) que haga uso como mínimo de una de las funcionalidades de la Leanback Library. Como los GDG Garages son espacios para que la gente puede cacharrear con diferentes tecnologías, vamos a fomentar que los asistentes que no participen en el concurso puedan ayudar a cualquiera de los equipos (incluso a más de uno) de forma puntual. ¡Y con premio!
+
+          Entre todos los participantes locales a un GDG, y siempre y cuando las aplicaciones cumplan los requisitos y un mínimo de calidad, se escogerá un equipo ganador que se cuyos integrantes se llevarán un Nexus Player cada uno. Además, de entre todos los demás asistentes al Garage que hayan ayudado puntualmente al equipo ganador, se sorteará entre un par de Chromecasts.
+
+          ¡Pero la cosa no acaba aquí! De entre todos los ganadores locales de los GDGs participantes, se seleccionarán tres candidatos a la final nacional, que tendrá lugar durante el DevFest Barcelona el 2 de Octubre. Los gastos de desplazamiento y alojamiento de estas personas estarán cubiertos, y además el equipo ganador de la final nacional se llevará un par de tickets a cualquier conferencia de desarrolladores que quieran (con un máximo de 900 $ y que se puedan conseguir, que el Google I/O está así como un poco complicadete): Devvox, Droidcon, lo que sea!
+
+          Dado que este concurso lo organizamos desde el GDG Spain de forma totalmente altruista (no ganamos nada y encima ponemos tiempo), por lo general no vamos a aceptar reclamaciones de ningún tipo. El código, la app, la idea, y en general todo lo que produzcáis es vuestro, pero nosotros nos reservamos la potestad de hacer cualquier aclaración a las normas que hemos expuesto. En general tiraremos de sentido común y todo se hará público y con fair play, y esperamos que vosotros nos ayudéis con la misma actitud."
 
 # Logistics Find Way Block
 findWayTitle: "Cómo llegar"
@@ -218,4 +180,3 @@ directionDetailsCards:
 hackathonPlaceCoordinates: ""
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
-
