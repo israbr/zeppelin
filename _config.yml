@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/#aboutConcurso", text: "Concurso"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
+ - {permalink: "/normas/", text: "Normas"}
 bottomNavigationLinks:
  - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
 rightNavigationButtons:
@@ -136,7 +137,9 @@ footerBlocks:
 
 # About tv
 teamBlockTitle: "¿Qué es Android TV Garage?"
-aboutIt: "El Google I/O siempre presenta novedades, también para los GDGs. A raíz del último en Mayo de este año, hemos decidido introducir en España un nuevo formato de evento conocido como GDG Garage, en los cuales vamos a probar nuevas tecnologías y puede que hasta vuelvas a casa con un nuevo dispositivo ;)
+aboutIt: "El Google I/O siempre presenta novedades, también para los GDGs. A raíz del último en Mayo de este año, hemos decidido introducir en España un nuevo formato de evento conocido como GDG Garage,
+ en los
+cuales vamos a probar nuevas tecnologías y puede que hasta vuelvas a casa con un nuevo dispositivo ;)
 
           Los Garage son unas jornadas tecnológicas con el objetivo de profundizar en una tecnología en particular, pero en las cuales iremos aprendiendo desarrollando directamente durante la sesión según los intereses de cada uno. No hay profesores ni mentores, tan solo un grupo de gente con ganas de hacer cosas.
 
@@ -149,13 +152,24 @@ aboutIt: "El Google I/O siempre presenta novedades, también para los GDGs. A ra
 # About concurso
 statisticBlockImage: "statistic.jpg"
 concursoBlockTitle: "Concurso"
-aboutConcurso: "En el concurso pueden participar cualquiera de los asistentes a los Garages, en equipos de dos personas, que deberán desarrollar y publicar antes de la última sesión una aplicación Android TV nativa (Java) que haga uso como mínimo de una de las funcionalidades de la Leanback Library. Como los GDG Garages son espacios para que la gente puede cacharrear con diferentes tecnologías, vamos a fomentar que los asistentes que no participen en el concurso puedan ayudar a cualquiera de los equipos (incluso a más de uno) de forma puntual. ¡Y con premio!
+aboutConcurso: "En el concurso pueden participar cualquiera de los <span class='negrita'>asistentes a los Garages</span>, en equipos de dos personas, que deberán desarrollar y publicar antes de la última sesión una
+aplicación
+Android TV nativa (Java) que haga uso como mínimo de una de las funcionalidades de la Leanback Library. Como los GDG Garages son espacios para que la gente puede cacharrear con diferentes tecnologías, vamos a fomentar que los asistentes que no participen en el concurso puedan ayudar a cualquiera de los equipos (incluso a más de uno) de forma puntual. ¡Y con premio!
 
-          Entre todos los participantes locales a un GDG, y siempre y cuando las aplicaciones cumplan los requisitos y un mínimo de calidad, se escogerá un equipo ganador que se cuyos integrantes se llevarán un Nexus Player cada uno. Además, de entre todos los demás asistentes al Garage que hayan ayudado puntualmente al equipo ganador, se sorteará entre un par de Chromecasts.
+          Entre todos los participantes locales a un GDG, y <span class='negrita'>siempre y cuando las aplicaciones cumplan los requisitos y un mínimo de calidad, se escogerá un equipo ganador que se cuyos integrantes se
+           llevarán un Nexus Player cada uno.</span> Además, <span class='negrita'>de entre todos los demás asistentes al Garage que hayan ayudado puntualmente al equipo ganador, se sorteará entre un par de Chromecasts
+           .</span>
 
-          ¡Pero la cosa no acaba aquí! De entre todos los ganadores locales de los GDGs participantes, se seleccionarán tres candidatos a la final nacional, que tendrá lugar durante el DevFest Barcelona el 2 de Octubre. Los gastos de desplazamiento y alojamiento de estas personas estarán cubiertos, y además el equipo ganador de la final nacional se llevará un par de tickets a cualquier conferencia de desarrolladores que quieran (con un máximo de 900 $ y que se puedan conseguir, que el Google I/O está así como un poco complicadete): Devvox, Droidcon, lo que sea!
+          ¡Pero la cosa no acaba aquí! <span class='negrita'>De entre todos los ganadores locales de los GDGs participantes, se seleccionarán tres candidatos a la final nacional, que tendrá lugar durante el DevFest
+          Barcelona el 2 de Octubre. Los gastos de desplazamiento y alojamiento de estas personas estarán cubiertos,</span> y además el equipo ganador de la final nacional se llevará un par de tickets a cualquier
+          conferencia de desarrolladores que quieran (con un máximo de 900 $ y que se puedan conseguir, que el Google I/O está así como un poco complicadete): Devvox, Droidcon, lo que sea!
 
-          Dado que este concurso lo organizamos desde el GDG Spain de forma totalmente altruista (no ganamos nada y encima ponemos tiempo), por lo general no vamos a aceptar reclamaciones de ningún tipo. El código, la app, la idea, y en general todo lo que produzcáis es vuestro, pero nosotros nos reservamos la potestad de hacer cualquier aclaración a las normas que hemos expuesto. En general tiraremos de sentido común y todo se hará público y con fair play, y esperamos que vosotros nos ayudéis con la misma actitud."
+          Dado que este concurso lo organizamos desde el GDG Spain de forma totalmente altruista (no ganamos nada y encima ponemos tiempo), por lo general no vamos a aceptar reclamaciones de ningún tipo. El código, la
+           app, la idea, y en general todo lo que produzcáis es vuestro, pero nosotros nos reservamos la potestad de hacer cualquier aclaración a las normas que hemos expuesto. En general tiraremos
+            de
+           sentido
+           común y todo se hará público y con fair play, y esperamos que vosotros nos ayudéis con la misma actitud."
+
 
 # Logistics Find Way Block
 findWayTitle: "Cómo llegar"
