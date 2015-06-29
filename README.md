@@ -42,6 +42,13 @@ and run next command from root folder:
 ```bash
   bundle install
 ```  
+en la maquina local de Isra hay que hacer:
+```bash
+    source /usr/local/share/chruby/chruby.sh 
+    source /usr/local/share/chruby/auto.sh 
+    chruby 2.1.3
+    jekyll serve
+```
 
 To start Jekyll run:
 ```bash
