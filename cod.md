@@ -1,20 +1,25 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: No seas idiota
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Esta política de "No seas idiota" es una version más corta y relajada de [esta](http://meta.wikimedia .org/wiki/Don%27t_be_a_dick).__
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+En el GDG de Sevilla nos gusta pensar que respetamos a todas las personas que a su vez respeten a las demás. Eso quiere decir que no vamos a permitir comportamiento idiota en este evento. Como sabemos que la definición
+de lo que es ser un idiota o no puede no ser obvia para algunas personas, aquí tenemos una lista NO exhaustiva de las cosas que no permitiríamos: bromas o comentarios ofensivos sobre
+género/orientación sexual/raza/religión/nacionalidad/complexión, mostrar porno en público, tocar a la gente de forma inapropiada sin ningún tipo de invitación o seguir relacionándose con alguien que nos haya pedido
+amablemente que no lo hagamos más. Reincidir en dichos comportamientos podría resultar en la expulsión del evento (y dado el caso, del GDG).
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Si en algún momento sientes que alguien te está molestando, trata de avisar lo antes posible a la organización para que puedan ocuparse de ello.
+
+Hagamos de este evento algo increíble ;-)
 
 
 ######Contacts:
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+- Israel Boza, [isra@androidxtended.com](mailto:isra@androidxtended.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

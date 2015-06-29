@@ -1,10 +1,10 @@
 - 
-  group: "Main organizer"
+  group: "Principal organizador"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Sevilla", description: "GDG Sevilla - Compartiendo conocimiento sobre nuevas tecnologías en la ciudad de Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png"}
 - 
-  group: "Co-organizers"
+  group: "Co-organizadores"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Espacio RES", description: "Innovacion social = (Startups + Tecnolgia) * Creatividad", link: "http://espacio-res.org", imageUrl: "logo-res-gris.png"}
+#    - {name: "47Degrees", description: "47 Degrees is a global consulting firm with a focus on software development", link: "http://www.47deg.com", imageUrl: "logo-47-Red.png"}
+    - {name: "Bitnami", description: "Bitnami makes it easy to run your favorite server apps anywhere", link: "http://bitnami.com", imageUrl: "logo-bitnami.png"}
