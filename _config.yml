@@ -100,13 +100,13 @@ ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
 -
   name: "Community"
-  price: "Grátis"
+  price: "Gratis"
   priceCurrency: "EUR"
   ticketsNumber: "40"
   buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
   buyButtonText: "Consigue la tuya"
   additionalInfo: ""
-  ticketContentList: [ "Sabado 4 de Julio, 10:30 - 13:30", "La entrada solo es válida para la sesión indicada", "Solo 40 plazas"]
+  ticketContentList: [ "Sábado 4 de Julio, 10:30 - 13:30", "La entrada solo es válida para la sesión indicada", "Solo 40 plazas"]
   validFrom: "2015-04-16T10:00"
   validThrough: "2015-05-12T23:59"
   disabled: false
