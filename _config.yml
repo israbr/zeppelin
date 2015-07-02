@@ -137,7 +137,11 @@ footerBlocks:
 
 # About tv
 teamBlockTitle: "¿Qué es Android TV Garage?"
-aboutIt: "El Google I/O siempre presenta novedades, también para los GDGs. A raíz del último en Mayo de este año, hemos decidido introducir en España un nuevo formato de evento conocido como GDG Garage,
+aboutIt: "<p class='negrita'>Para sacarle el máximo partido a la jornada estaría bien que os trajerais vuestro portatil con Android Studio instalado, aunque NO es imprescindible (Gracias a Marta por indicarnos que no
+estaba claro).</p>
+<p>El Google I/O siempre presenta novedades, también para los GDGs. A raíz del último en Mayo de este año, hemos decidido introducir en España un nuevo formato de evento
+conocido como GDG
+Garage,
  en los
 cuales vamos a probar nuevas tecnologías y puede que hasta vuelvas a casa con un nuevo dispositivo ;)
 
@@ -147,7 +151,7 @@ cuales vamos a probar nuevas tecnologías y puede que hasta vuelvas a casa con u
 
           Además, aquellos que lo deseen, se podrán apuntar al concurso de aplicaciones nativas para Android TV (Java) que se estará abierto sólo para los participantes de los GDG Garage (os daremos más información del concurso a parte). Incluso si no participas en el concurso pero ayudas a los concursantes durante los Garages, puedes igualmente conseguir un nuevo dispositivo ;)
 
-          ¿Quién quiere playa con este planazo? ;)"
+          ¿Quién quiere playa con este planazo? ;)</p>"
 
 # About concurso
 statisticBlockImage: "statistic.jpg"
