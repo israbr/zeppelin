@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/#location-map", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
  - {permalink: "/normas/", text: "Normas"}
+ - {permalink: "/recursos/", text: "Recursos"}
 bottomNavigationLinks:
  - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
 rightNavigationButtons:
