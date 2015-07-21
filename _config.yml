@@ -55,6 +55,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 #heroTitle: "Android Tv Garage"
 #eventDate: "4 de Julio, 2015"
+heroButtons:
+   - {permalink: "/#tickets", text: "Nuevas Fechas!!"}
 
 # About Block
 aboutTitle: "¿Qué es Android Tv Garage?"
@@ -110,10 +112,39 @@ ticketsOffers:
   ticketContentList: [ "Sábado 4 de Julio, 10:30 - 13:30", "La entrada solo es válida para la sesión indicada", "Solo 40 plazas"]
   validFrom: "2015-04-16T10:00"
   validThrough: "2015-05-12T23:59"
+  soldOut: true
+  soldOutText: "Agotadas!"
+
+-
+  name: "Segunda Sesion"
+  price: "Gratis"
+  priceCurrency: "EUR"
+  ticketsNumber: "40"
+  buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
+  buyButtonText: "Consigue la tuya"
+  additionalInfo: ""
+  ticketContentList: [ "Sábado 1 de Agosto, 10:30 - 13:30", "La entrada solo es válida para la sesión indicada", "Solo 40 plazas"]
+  validFrom: "2015-04-16T10:00"
+  validThrough: "2015-05-12T23:59"
   disabled: false
   soldOut: false
   soldOutText: "Agotadas!"
   featured: true
+
+
+-
+  name: "Tercera Sesion"
+  price: "Gratis"
+  priceCurrency: "EUR"
+  ticketsNumber: "40"
+  buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
+  buyButtonText: "Consigue la tuya"
+  additionalInfo: ""
+  ticketContentList: [ "Sábado 22 de Agosto, 10:30 - 13:30", "En esta ocasion nos vemos en las oficinas de Bitnami", "Solo 40 plazas"]
+  validFrom: "2015-04-16T10:00"
+  validThrough: "2015-05-12T23:59"
+  disabled: false
+  ribbon: "Bitnami"
 
 # Footer
 socialLinks:
