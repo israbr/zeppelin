@@ -37,26 +37,28 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
-navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/#tickets", text: "Entradas"}
- - {permalink: "/#aboutTv", text: "¿En qué consiste?"}
- - {permalink: "/#aboutConcurso", text: "Concurso"}
- - {permalink: "/#location-map", text: "¿Dónde?"}
- - {permalink: "/#partners", text: "Organizan"}
- - {permalink: "/normas/", text: "Normas"}
- - {permalink: "/recursos/", text: "Recursos"}
-bottomNavigationLinks:
- - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
-rightNavigationButtons:
- - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
+#navigationLinks:
+# - {permalink: "/", text: "Home"}
+# - {permalink: "/#tickets", text: "Entradas"}
+# - {permalink: "/#aboutTv", text: "¿En qué consiste?"}
+# - {permalink: "/#aboutConcurso", text: "Concurso"}
+# - {permalink: "/#location-map", text: "¿Dónde?"}
+# - {permalink: "/#partners", text: "Organizan"}
+# - {permalink: "/normas/", text: "Normas"}
+# - {permalink: "/recursos/", text: "Recursos"}
+#bottomNavigationLinks:
+# - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
+#rightNavigationButtons:
+# - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "Android Tv Garage"
-#eventDate: "4 de Julio, 2015"
-heroButtons:
-   - {permalink: "/#tickets", text: "Nuevas Fechas!!"}
+heroTitle: "En Sevilla no hace nada de <typeout>"
+eventDate: "17 de Octubre, 2015"
+typeoutTextValues: '"", "Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración contínua", "DevOps"'
+typeoutFallback: "Season"
+#heroButtons:
+#   - {permalink: "/#tickets", text: "Nuevas Fechas!!"}
 
 # About Block
 aboutTitle: "¿Qué es Android Tv Garage?"
