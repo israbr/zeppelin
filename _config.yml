@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Android TV Garage "
+title: "GDG Sevilla "
 email: "contacto@gdgsevilla.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/117186888160178861350/about"
 
 # Head
-metaKeywords: "android, evento, gdg, google, android tv, developers, sevilla, desarrollo, event"
+metaKeywords: "android, evento, gdg, google, developers, sevilla, desarrollo, event"
 twitterAccount: "@GDGSevilla"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
