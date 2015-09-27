@@ -53,7 +53,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "En Sevilla no hace nada de <typeout>"
+heroTitle: "En Sevilla no se hace nada de <typeout>"
 eventDate: "17 de Octubre, 2015"
 typeoutTextValues: '"", "Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración contínua", "DevOps"'
 typeoutFallback: "Season"
