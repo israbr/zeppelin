@@ -1,0 +1,53 @@
+- 
+  id: 3
+  name: "Eduardo"
+  surname: "Pereira García"
+  company: "Bitnami"
+  title: "Developer"
+  bio: " Telecomunications engineer, interested in open source application and cloud computing. Currently working at bitnami."
+  thumbnailUrl: edu.png
+  rockstar: true
+  social: 
+-
+  id: 4
+  name: "Asier"
+  surname: "Marqués"
+  company: "Simettric"
+  title: "Empresario de Internet con @simettric y @4visionshq"
+  bio: "Asier cuenta con más de 12 años de experiencia en desarrollo de software orientado a Internet.
+        Ha fundado varias empresas tecnológicas tanto de producto como de servicio y actualmente se ocupa de la gestión y desarrollo de producto para cliente en su agencia Simettric.
+        Además de su trabajo en Simettric, Asier dirige 4 visions gestio de projectes (4visionshq.com), empresa ubicada en Barcelona en la que junto a sus socios crean productos SaaS orientados al sector de la traducción."
+  thumbnailUrl: AsierMarques.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/asiermarques"}
+- 
+  id: 5
+  name: "Trisha"
+  surname: "Gee"
+  company: "Jetbrains"
+  title: "Developer Advocate"
+  bio: "Trisha has developed Java applications for a range of industries, including finance, manufacturing, software and non-profit, for companies of all sizes.  She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha is a leader of the Sevilla Java User Group, a MongoDB Master and a Java Champion. She believes we shouldn't all have to make the same mistakes again and again. She’s a Developer Advocate for JetBrains so she can share all the cool stuff she's discovered so far."
+  thumbnailUrl: trisha.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+TrishaGee"}
+    - {name: "twitter", link: "https://twitter.com/trisha_gee"}
+    - {name: "github", link: "http://www.github.com/trishagee"}
+
+- 
+  id: 6
+  name: "Luis"
+  surname: "G. Valle"
+  company: "Bizzby"
+  title: "Android expert"
+  bio: "Soy un firme creyente en las cosas simples y bien hechas. Lo cual me gusta aplicar tanto al código como al diseño de interfaces.
+        Me apasiona leer, charlar y escribir sobre Android. Compartir experiencias es la forma más enriquecedora de aprender y mejorar la comunidad.
+        Antes de venir a Londres trabajé en Madrid en Intelygenz y el grupo Prisa como Team Leader Android, tocando todo lo que tenía que ver con Android y movilidad. Y antes de eso pasé por Berlin y Sevilla.
+        Llevo desde 2010 haciendo aplicaciones móviles y creo que esto no ha hecho más que empezar"
+  thumbnailUrl: luisGValle.png
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+LuisGonzálezValle"}
+    - {name: "twitter", link: "https://twitter.com/lgvalle"}
+    - {name: "github", link: "http://www.github.com/lgvalle"}

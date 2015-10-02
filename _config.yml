@@ -14,7 +14,7 @@ title: "GDG Sevilla "
 email: "contacto@gdgsevilla.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
-url: "http://http://www.gdgsevilla.com/"
+url: "http://www.gdgsevilla.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
 googleAnalyticsSiteUrl: "gdgsevilla.github.io"
@@ -59,6 +59,17 @@ typeoutTextValues: '"", "Java", "Android", "PHP", "Ruby", "JavaScript", "Python"
 typeoutFallback: "Season"
 #heroButtons:
 #   - {permalink: "/#tickets", text: "Nuevas Fechas!!"}
+
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Nuestros ponentes"
+rockstarSpeakersButtonText: "Ver más"
+
+# Speakers List Block
+showSessions: true
+
 
 # About Block
 aboutTitle: "¿Qué es Android Tv Garage?"
@@ -155,8 +166,11 @@ footerBlocks:
  -
   title: "Enlaces"
   links:
+   - {link: "http://www.meetup.com/PHP-Sevilla", text: "PHP Sevilla"}
+   - {link: "http://http://www.meetup.com/SVQJUG", text: "SVQ JUG"}
    - {link: "https://plus.google.com/117186888160178861350/", text: "GDG Sevilla"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+
  -
   title: "Contactar"
   links:
