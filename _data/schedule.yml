@@ -4,6 +4,12 @@
   tracks:
     - {title: "Bitnami", color: "#90be4e"}
   timeslots:
+
+    - {
+    	startTime: "09:30",
+    	endTime: "09:55",
+    	sessionIds: [503]
+    }
     - {
     	startTime: "10:00",
     	endTime: "10:50",

@@ -6,8 +6,8 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Pausa para comer"
-  place: "Dining room"
+  title: "Apetura de puertas y registro"
+  place: "Entrada"
   service: true
 -
   id: 001
