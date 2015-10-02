@@ -37,28 +37,28 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
-#navigationLinks:
-# - {permalink: "/", text: "Home"}
-# - {permalink: "/#tickets", text: "Entradas"}
-# - {permalink: "/#aboutTv", text: "¿En qué consiste?"}
-# - {permalink: "/#aboutConcurso", text: "Concurso"}
-# - {permalink: "/#location-map", text: "¿Dónde?"}
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/#tickets", text: "Entradas"}
+ - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
+ - {permalink: "/#location-map", text: "¿Dónde?"}
 # - {permalink: "/#partners", text: "Organizan"}
 # - {permalink: "/normas/", text: "Normas"}
 # - {permalink: "/recursos/", text: "Recursos"}
 #bottomNavigationLinks:
-# - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
+# - {link: "https://www.ticketea.com/svqdc/", text: "Entradas"}
 #rightNavigationButtons:
-# - {link: "https://www.ticketea.com/android-tv-garage/", text: "Entradas"}
+# - {link: "https://www.ticketea.com/svqdc/", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "En Sevilla no se hace nada de <typeout>"
-eventDate: "17 de Octubre, 2015"
-typeoutTextValues: '"", "Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración contínua", "DevOps"'
-typeoutFallback: "Season"
-#heroButtons:
-#   - {permalink: "/#tickets", text: "Nuevas Fechas!!"}
+heroMain: "Sevilla Developers Conf #SVQDC"
+heroTitle: "Porque aquí no se hace nada de <typeout>"
+eventDate: "Sábado, 17 de Octubre, 2015"
+typeoutTextValues: '"Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración Contínua", "DevOps"'
+typeoutFallback: "tecnología"
+heroButtons:
+   - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 
 # Rockstar Speakers Block
@@ -80,16 +80,17 @@ aboutBlock:
 
 # Location Block
 locationBlockTitle: "Dónde?"
-eventLocationName: "Espacio res"
-eventLocationLink: "http://espaciores.org/"
-eventStreetAddress: "Avenida República Argentina, 25, planta 9"
+eventLocationName: "Bitnami"
+eventLocationLink: "http://bitnami.com/"
+eventStreetAddress: "Avenida República Argentina, 31B"
 eventAddressLocality: "Sevilla"
 eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41011"
 eventAddressCountry: "España"
-eventStartTime: "2015-06-04T10:30"
-eventDoorTime: "10:30"
-eventEndTime: "2015-06-04T13:30"
+eventStartTime: "2015-10-17T10:00"
+eventDoorTime: "10:00"
+eventEndTime: "2015-10-17T14:30"
+readableDate: "Sábado 17 de Octubre 2015"
 eventPlaceCoordinates: "37.377736,-6.001971"
 mapCenterCoordinates: "37.377736,-6.001971"
 mapMobileCenterCoordinates: "37.377736,-6.001971"
@@ -111,50 +112,41 @@ c4sponsorsUrl: "mailto:contacto@gdgsevilla.com"
 
 # Tickets Block
 tweetsFeedImage: "twitter-feed.png"
-ticketsTitle: "Entrada"
+ticketsTitle: "Entradas"
 ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
 -
-  name: "Community"
-  price: "Gratis"
+  name: "Early Bird"
+  price: "5"
   priceCurrency: "EUR"
-  ticketsNumber: "40"
-  buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
-  buyButtonText: "Consigue la tuya"
+  ticketsNumber: "25"
+  buyButtonLink: "https://www.ticketea.com/svqdc/"
+  buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "Sábado 4 de Julio, 10:30 - 13:30", "La entrada solo es válida para la sesión indicada", "Solo 40 plazas"]
-  validFrom: "2015-04-16T10:00"
-  validThrough: "2015-05-12T23:59"
-  soldOut: true
+  ticketContentList: [ "A la mitad de precio", "Solo tienes unos pocos días"]
+  validFrom: "2015-10-01T10:00"
+  validThrough: "2015-10-11T23:59"
+  soldOut: false
   soldOutText: "Agotadas!"
-
--
-  name: "Segunda Sesion"
-  price: "Gratis"
-  priceCurrency: "EUR"
-  ticketsNumber: "40"
-  buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
-  buyButtonText: "Consigue la tuya"
-  additionalInfo: ""
-  ticketContentList: [ "Sábado 1 de Agosto, 10:30 - 13:30", "La entrada solo es válida para la sesión indicada", "Solo 40 plazas"]
-  validFrom: "2015-04-16T10:00"
-  validThrough: "2015-05-12T23:59"
-  soldOut: true
-  soldOutText: "Agotadas!"
-  
--
-  name: "Tercera Sesion"
-  price: "Gratis"
-  priceCurrency: "EUR"
-  ticketsNumber: "40"
-  buyButtonLink: "https://www.ticketea.com/android-tv-garage/"
-  buyButtonText: "Consigue la tuya"
-  additionalInfo: ""
-  ticketContentList: [ "Sábado 22 de Agosto, 10:30 - 13:30", "En esta ocasion nos vemos en las oficinas de Bitnami", "Ultima sesion!!"]
-  validFrom: "2015-04-16T10:00"
-  validThrough: "2015-05-12T23:59"
   ribbon: "Bitnami"
   featured: true
+
+
+-
+  name: "Last chance"
+  price: "10"
+  priceCurrency: "EUR"
+  ticketsNumber: "25"
+  buyButtonLink: "https://www.ticketea.com/svqdc/"
+  buyButtonText: "Es tu ultima oportunidad"
+  additionalInfo: ""
+  ticketContentList: [ "Para los rezagados", "No te quedes sin tuya"]
+  validFrom: "2015-10-12T00:00"
+  validThrough: "2015-10-16T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Agotadas!"
+
 
 # Footer
 socialLinks:
@@ -181,22 +173,15 @@ footerBlocks:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
 # About tv
-teamBlockTitle: "¿Qué es Android TV Garage?"
-aboutIt: "<p class='negrita'>Para sacarle el máximo partido a la jornada estaría bien que os trajerais vuestro portatil con Android Studio instalado, aunque NO es imprescindible (Gracias a Marta por indicarnos que no
-estaba claro).</p>
-<p>El Google I/O siempre presenta novedades, también para los GDGs. A raíz del último en Mayo de este año, hemos decidido introducir en España un nuevo formato de evento
-conocido como GDG
-Garage,
- en los
-cuales vamos a probar nuevas tecnologías y puede que hasta vuelvas a casa con un nuevo dispositivo ;)
-
-          Los Garage son unas jornadas tecnológicas con el objetivo de profundizar en una tecnología en particular, pero en las cuales iremos aprendiendo desarrollando directamente durante la sesión según los intereses de cada uno. No hay profesores ni mentores, tan solo un grupo de gente con ganas de hacer cosas.
-
-          Para poder dar a conocer el formato de una forma sencilla, los GDGs españoles hemos planeado hacer una serie de Garages durante los meses de Junio a Septiembre centrados especialmente en Android TV. Contaremos con algunos dispositivos para poder probar, así como con materiales didácticos facilitados por Google para poder aprender esta tecnología a base de la prueba y error.
-
-          Además, aquellos que lo deseen, se podrán apuntar al concurso de aplicaciones nativas para Android TV (Java) que se estará abierto sólo para los participantes de los GDG Garage (os daremos más información del concurso a parte). Incluso si no participas en el concurso pero ayudas a los concursantes durante los Garages, puedes igualmente conseguir un nuevo dispositivo ;)
-
-          ¿Quién quiere playa con este planazo? ;)</p>"
+teamBlockTitle: "¿Qué es SevillaDeveloperConf?"
+aboutIt: "<p>
+Aprovechando que el objetivo de este DevFest es fomentar la colaboración con otras comunidades, hemos aprovechado para organizar un evento de medio día con algunas de las comunidades que se mueven en la ciudad.
+En esta edición tenemos a la gente de PHPSevilla, SVQJug y GDGSevilla y además de contar con la increible colaboración de Bitnami.
+ Queremos convertir esto en un evento trimestral e intentar invitar al mayor número de comunidades de ahí fuera, para que podamos cambiar la percepción de las cosas que pasan en Sevilla con ayuda de todos. Así que si
+ aún no nos hemos puesto en contacto con vuestra comunidad, mandadnos un correo y para las proximas ediciones lo solucionaremos.
+ Si os preguntais el por que del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el grupo que nació en Facebook nos pareció el más idóneo.
+ Echadle un vistazo a las charlas y no os arrepentireis de venir.
+</p>"
 
 # About concurso
 statisticBlockImage: "statistic.jpg"
