@@ -44,12 +44,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
 # - {permalink: "/#partners", text: "Organizan"}
-# - {permalink: "/normas/", text: "Normas"}
-# - {permalink: "/recursos/", text: "Recursos"}
-#bottomNavigationLinks:
-# - {link: "https://www.ticketea.com/svqdc/", text: "Entradas"}
-#rightNavigationButtons:
-# - {link: "https://www.ticketea.com/svqdc/", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -72,13 +66,6 @@ rockstarSpeakersButtonText: "Ver más"
 showSessions: true
 
 
-# About Block
-aboutTitle: "¿Qué es Android Tv Garage?"
-aboutBlock:
- - {title: "Charlas", image: "conference.jpg", text: "Pasa el día aprendiendo de los mejores" }
- - {title: "Talleres", image: "workshop.png", text: "Incluidos en la agenda podras participar en talleres sobre elementos concretos de Android" }
- - {title: "Comunidad", image: "community.png", text: "Charla con los ponentes y otros miembros del sector" }
-
 # Location Block
 locationBlockTitle: "Dónde?"
 eventLocationName: "Bitnami"
@@ -95,15 +82,6 @@ readableDate: "Sábado 17 de Octubre 2015"
 eventPlaceCoordinates: "37.377736,-6.001971"
 mapCenterCoordinates: "37.377736,-6.001971"
 mapMobileCenterCoordinates: "37.377736,-6.001971"
-
-# Venue Block
-venueBlockTitle: "Espacio res"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Espacio res"
-venueFeatures: ["6 magnificas terrazas", "Amplio espacio para los asistentes", "Muy bien comunicado"]
 
 # Partners Block
 organizersTitle: "Organizan"
@@ -176,11 +154,14 @@ footerBlocks:
 # About tv
 teamBlockTitle: "¿Qué es SevillaDeveloperConf?"
 aboutIt: "<p>
-Aprovechando que el objetivo de este DevFest es fomentar la colaboración con otras comunidades, hemos aprovechado para organizar un evento de medio día con algunas de las comunidades que se mueven en la ciudad.
-En esta edición tenemos a la gente de PHPSevilla, SVQJug y GDGSevilla y además de contar con la increible colaboración de Bitnami.
+Aprovechando que el objetivo de este <a href='https://developers.google.com/events/devfest'>DevFest</a> es fomentar la colaboración con otras comunidades, hemos aprovechado para organizar un evento de medio día con
+algunas de las comunidades que se mueven en la ciudad.
+En esta edición tenemos a la gente de <a href='http://www.meetup.com/PHP-Sevilla'>PHPSevilla</a>, <a href='http://http://www.meetup.com/SVQJUG'>SVQJug</a> y GDGSevilla y además de contar con la increible colaboración de
+Bitnami.
  Queremos convertir esto en un evento trimestral e intentar invitar al mayor número de comunidades de ahí fuera, para que podamos cambiar la percepción de las cosas que pasan en Sevilla con ayuda de todos. Así que si
  aún no nos hemos puesto en contacto con vuestra comunidad, mandadnos un correo y para las proximas ediciones lo solucionaremos.
- </p><p>Si os preguntais el por qué del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el grupo que nació en Facebook nos pareció el más idóneo.
+ </p><p>Si os preguntais el por qué del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el <a href='https://www.facebook.com/groups/sevilladevelopers/'>grupo</a> que nació en Facebook
+ nos pareció el más idóneo.
  </p><p>Echadle un vistazo a las charlas y no os arrepentireis de venir.
 </p>"
 
