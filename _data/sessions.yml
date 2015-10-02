@@ -22,8 +22,11 @@
 -
   id: 002
   title: "Este no es el PHP de tus padres"
-  description: "Asi que en PHP se han hecho las cosas mas horrendas del universo, bien. Dos cosas: primero, no habeis visto algunas aplicaciones para Android... y segundo, ¿cuánto tiempo hace que no te das una vuelta
-  por el mundillo PHP? En esta sesión daremos un repaso a qué pinta tiene el lenguaje actualmente y qué herramientas usar para que nadie pueda meterse con tu código."
+  description: "Han pasado 21 años desde que la primera versión de php viese la luz.
+
+                Desde entonces el lenguaje ha ido evolucionando mientras sus desarrolladores iban encontrando nuevas necesidades y problemas a resolver.
+
+                En los últimos seis años, la evolución tanto del lenguaje como del perfil de desarrollador php ha sido brutal, y ha dotado a su cada día más exigente comunidad de herramientas y features que les hacen ser productivos ganando en calidad."
   subtype: presentation
   speakers: [4]
   language: Español
