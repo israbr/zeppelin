@@ -99,7 +99,7 @@ ticketsOffers:
   price: "5"
   priceCurrency: "EUR"
   ticketsNumber: "25"
-  buyButtonLink: "https://www.ticketea.com/svqdc/"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
   ticketContentList: [ "A la mitad de precio", "Solo tienes unos pocos días"]
@@ -116,7 +116,7 @@ ticketsOffers:
   price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "25"
-  buyButtonLink: "https://www.ticketea.com/svqdc/"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
   buyButtonText: "Es tu ultima oportunidad"
   additionalInfo: ""
   ticketContentList: [ "Para los rezagados", "No te quedes sin tuya"]
