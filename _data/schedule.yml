@@ -1,0 +1,26 @@
+-
+  date: "2015-10-17"
+  dateReadable: "17 de Octubre"
+  tracks:
+    - {title: "Bitnami", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:50",
+    	sessionIds: [001]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:50",
+        sessionIds: [002]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:50",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "13:00",
+    	endTime: "13:50",
+    	sessionIds: [003]
+    }

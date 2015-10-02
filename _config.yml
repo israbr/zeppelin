@@ -41,6 +41,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#tickets", text: "Entradas"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
 # - {permalink: "/#partners", text: "Organizan"}
 # - {permalink: "/normas/", text: "Normas"}
@@ -179,8 +180,8 @@ Aprovechando que el objetivo de este DevFest es fomentar la colaboración con ot
 En esta edición tenemos a la gente de PHPSevilla, SVQJug y GDGSevilla y además de contar con la increible colaboración de Bitnami.
  Queremos convertir esto en un evento trimestral e intentar invitar al mayor número de comunidades de ahí fuera, para que podamos cambiar la percepción de las cosas que pasan en Sevilla con ayuda de todos. Así que si
  aún no nos hemos puesto en contacto con vuestra comunidad, mandadnos un correo y para las proximas ediciones lo solucionaremos.
- Si os preguntais el por que del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el grupo que nació en Facebook nos pareció el más idóneo.
- Echadle un vistazo a las charlas y no os arrepentireis de venir.
+ </p><p>Si os preguntais el por qué del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el grupo que nació en Facebook nos pareció el más idóneo.
+ </p><p>Echadle un vistazo a las charlas y no os arrepentireis de venir.
 </p>"
 
 # About concurso

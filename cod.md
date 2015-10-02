@@ -20,6 +20,4 @@ Hagamos de este evento algo increíble ;-)
 
 ######Contacts:
 
-- Israel Boza, [isra@androidxtended.com](mailto:isra@androidxtended.com)
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+- Israel Boza, [contacto@gdgsevilla.com](mailto:contacto@gdgsevilla.com)

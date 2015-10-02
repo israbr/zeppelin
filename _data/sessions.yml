@@ -1,0 +1,58 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Pausa para comer"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Java 8 in Anger"
+  description: "Java 9 is just around the corner, but many of us developers have yet to use Java 8 features in an application.  This presentation moves beyond slide-sized examples of streams and lambdas, and to shows how to build a fully working end-to-end application using minimal external dependencies and the latest version of Java.
+
+                In this session, Trisha will build a Java 8 application live.  This application will consume a real-time feed of high velocity data, contain small services (possibly micro-sized) that make sense of the data, and present it in a JavaFX dashboard.  Along the way, we’ll encounter Java 8 streams, lambdas, new ways of working with collections, and bump into the new date and time API."
+  subtype: presentation
+  speakers: [5]
+  language: Inglés
+  complexity: "Intermedia"
+-
+  id: 002
+  title: "Este no es el PHP de tus padres"
+  description: "Asi que en PHP se han hecho las cosas mas horrendas del universo, bien. Dos cosas: primero, no habeis visto algunas aplicaciones para Android... y segundo, ¿cuánto tiempo hace que no te das una vuelta
+  por el mundillo PHP? En esta sesión daremos un repaso a qué pinta tiene el lenguaje actualmente y qué herramientas usar para que nadie pueda meterse con tu código."
+  subtype: presentation
+  speakers: [4]
+  language: Español
+  complexity: "Intermedia"
+-
+  id: 003
+  title: "Introduction to Kubernetes"
+  description: "Quick introduction to Kubernetes main structure and its motivation. We'll see an example on how to deploy a redmine cluster with Kubernetes in Google Cloud Platform."
+  subtype: presentation
+  speakers: [3]
+  language: Español
+  complexity: "Intermedia"
+-
+  id: 004
+  title: "Material Animations - Show me the code!"
+  description: "Las animaciones en Material Design son muy bonitas, pero ¿cómo demonios se programan?
+
+                Animaciones y transiciones son parte central de este lenguaje de diseño. Hay cientos de ejemplos ahí fuera con maravillosas animaciones que alegran el día al usuario y le ayudan a mantener el contexto de lo que sucede en su aplicación.
+
+                Diseñarlas en Illustrator es fácil. Programarlas no tanto.
+
+                En esta charla explico con ejemplos de código:
+
+                - Cómo funciona el android.Transition Framework.
+                - Cómo crear transiciones entre activities.
+                - Cómo se anima un elemento compartido entre dos activities.
+                - Cómo se animan elementos dentro de una activity y qué opciones tenemos para hacerlo a día de hoy.
+                - Cuáles son los problemas comunes y cómo resolverlos."
+  subtype: presentation
+  speakers: [6]
+  language: Español
+  complexity: "Intermedia"
