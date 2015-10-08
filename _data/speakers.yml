@@ -7,7 +7,9 @@
   bio: " Telecomunications engineer, interested in open source application and cloud computing. Currently working at bitnami."
   thumbnailUrl: edu.png
   rockstar: true
-  social: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/godraude"}
+
 -
   id: 4
   name: "Asier"
