@@ -53,7 +53,7 @@ eventDate: "Sábado, 17 de Octubre, 2015"
 typeoutTextValues: '"Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "Consigue tu entrada"}
+   - {permalink: "/#tickets", text: "¡Entradas agotadas!"}
 
 
 # Rockstar Speakers Block
@@ -105,7 +105,7 @@ ticketsOffers:
   ticketContentList: [ "A la mitad de precio", "Solo tienes unos pocos días"]
   validFrom: "2015-10-01T10:00"
   validThrough: "2015-10-11T23:59"
-  soldOut: false
+  soldOut: true
   soldOutText: "Agotadas!"
   ribbon: "Bitnami"
   featured: true
@@ -123,7 +123,7 @@ ticketsOffers:
   validFrom: "2015-10-12T00:00"
   validThrough: "2015-10-16T23:59"
   disabled: true
-  soldOut: false
+  soldOut: true
   soldOutText: "Agotadas!"
 
 
