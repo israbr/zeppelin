@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Sevilla "
+title: "SevillaDevelopers "
 email: "contacto@gdgsevilla.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
-url: "http://www.gdgsevilla.com/"
+url: "http://www.sevilladevelopers.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
-googleAnalyticsSiteUrl: "gdgsevilla.github.io"
+googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
 siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 
