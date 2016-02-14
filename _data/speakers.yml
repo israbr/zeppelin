@@ -1,55 +1,63 @@
 - 
   id: 3
-  name: "Edu"
-  surname: "García Moyano"
-  company: "Bitnami"
-  title: "Developer"
-  bio: " Telecomunications engineer, interested in open source application and cloud computing. Currently working at bitnami."
-  thumbnailUrl: edu.png
+  name: "Antonio"
+  surname: "Cortés"
+  company: "Ximdex"
+  title: "Technical Lead Architec"
+  bio: "Soy un gallego con más de 20 años como desarrollador y los últimos 16 años en Sevilla, a la que llegué para trabajar en Arrakis. Disfruto probando tecnología y aplicándola a proyectos para realmente saber para que sirve. Me gusta programar, probar otras formas de resolver el mismo problema, con otros lenguajes, otros paradigmas, otros algoritmos, ...  Sin lugar a dudas el empezar hace dos décadas con sistemas (AIX, AS/400,Xenix,Windows,...) me sirvió para entender que 'hay mil soluciones para cada problema, pero no todas son igual de válidas o recomendables' así que, siempre buscando y probando, tirando código y disfrutando."
+  thumbnailUrl: antonio.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/godraude"}
+    - {name: "twitter", link: "https://twitter.com/drzippie"}
 
 -
   id: 4
-  name: "Asier"
-  surname: "Marqués"
-  company: "Simettric"
-  title: "Empresario de Internet con @simettric y @4visionshq"
-  bio: "Asier cuenta con más de 12 años de experiencia en desarrollo de software orientado a Internet.
-        Ha fundado varias empresas tecnológicas tanto de producto como de servicio y actualmente se ocupa de la gestión y desarrollo de producto para cliente en su agencia Simettric.
-        Además de su trabajo en Simettric, Asier dirige 4 visions gestio de projectes (4visionshq.com), empresa ubicada en Barcelona en la que junto a sus socios crean productos SaaS orientados al sector de la traducción."
-  thumbnailUrl: AsierMarques.jpeg
+  name: "Miguel Ángel"
+  surname: "Martín"
+  company: "Oblumi"
+  title: "Software Manager"
+  bio: "Ingeniero Técnico en Informática de Gestión especializado en el desarrollo de proyectos software.
+  Actualmente aprendiendo y divirtiéndome cada día en Oblumi, startup de la que soy cofundador. Amante de las metodologías ágiles y la productividad personal.
+  Organizador y ponente de la comunidad de <a href='http://www.meetup.com/PHP-Sevilla/'>PHP en Sevilla.</a>"
+  thumbnailUrl: miguel.png
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/asiermarques"}
+    - {name: "twitter", link: "https://twitter.com/miguelbemartin"}
 - 
   id: 5
-  name: "Trisha"
-  surname: "Gee"
-  company: "Jetbrains"
-  title: "Developer Advocate"
-  bio: "Trisha has developed Java applications for a range of industries, including finance, manufacturing, software and non-profit, for companies of all sizes.  She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha is a leader of the Sevilla Java User Group, a MongoDB Master and a Java Champion. She believes we shouldn't all have to make the same mistakes again and again. She’s a Developer Advocate for JetBrains so she can share all the cool stuff she's discovered so far."
-  thumbnailUrl: trisha.jpg
+  name: "Diego"
+  surname: "Freniche"
+  company: "Mobile Jazz"
+  title: "Mobile Developer (iOS / Android)"
+  bio: "Computer nerd, retrocomputer collector, Amstrad & Amiga lover, iOS/Android developer. Sometimes speak at places. 100% FrauDev"
+  thumbnailUrl: diego.png
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+TrishaGee"}
-    - {name: "twitter", link: "https://twitter.com/trisha_gee"}
-    - {name: "github", link: "http://www.github.com/trishagee"}
+    - {name: "twitter", link: "https://twitter.com/dfreniche"}
 
 - 
   id: 6
-  name: "Luis"
-  surname: "G. Valle"
-  company: "Bizzby"
-  title: "Android expert"
-  bio: "Soy un firme creyente en las cosas simples y bien hechas. Lo cual me gusta aplicar tanto al código como al diseño de interfaces.
-        Me apasiona leer, charlar y escribir sobre Android. Compartir experiencias es la forma más enriquecedora de aprender y mejorar la comunidad.
-        Antes de venir a Londres trabajé en Madrid en Intelygenz y el grupo Prisa como Team Leader Android, tocando todo lo que tenía que ver con Android y movilidad. Y antes de eso pasé por Berlin y Sevilla.
-        Llevo desde 2010 haciendo aplicaciones móviles y creo que esto no ha hecho más que empezar"
-  thumbnailUrl: luisGValle.png
+  name: "Vicente"
+  surname: "Herrera"
+  company: "WakLab.com"
+  title: "Ingeniero Informático"
+  bio: "Ingeniero Informático por la Universidad de Sevilla, participa como freelance en proyectos para pequeñas, grandes empresas y organismos públicos, en proyectos de investigación de la universidad, e imparte
+  cursos para empresas privadas y a nivel universitario y de master. Iniciador del recién creado grupo de conocimiento <a href='gesprosev.com'> 'Gestión de Proyectos Sevilla'</a> "
+  thumbnailUrl: vicente.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+LuisGonzálezValle"}
-    - {name: "twitter", link: "https://twitter.com/lgvalle"}
-    - {name: "github", link: "http://www.github.com/lgvalle"}
+    - {name: "twitter", link: "https://twitter.com/Vicen_Herrera"}
+
+
+-
+  id: 7
+  name: "Jesús Antonio"
+  surname: "Sánchez Méndez"
+  company: "Plain Concepts"
+  title: "Big Data/BI Developer"
+  bio: "A very passionate person who likes technology and coding in general. For me, this is not even a job, it is a hobby. I love coding, and I love imagine working on something that I love. Finally, as person, I
+  would say from myself that I am so enthusiastic and a guy with a high level of commitment."
+  thumbnailUrl: jesus.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/zNk"}

@@ -11,51 +11,60 @@
   service: true
 -
   id: 001
-  title: "Java 8 in Anger"
-  description: "Java 9 is just around the corner, but many of us developers have yet to use Java 8 features in an application.  This presentation moves beyond slide-sized examples of streams and lambdas, and to shows how to build a fully working end-to-end application using minimal external dependencies and the latest version of Java.
-
-                In this session, Trisha will build a Java 8 application live.  This application will consume a real-time feed of high velocity data, contain small services (possibly micro-sized) that make sense of the data, and present it in a JavaFX dashboard.  Along the way, we’ll encounter Java 8 streams, lambdas, new ways of working with collections, and bump into the new date and time API."
+  title: "Why Functional Programming matters?"
+  description: "FP is all the rage right now. You can hear about it all the time. The problem for us, poor Object Oriented developers 
+  (or even worst, imperative C programmers, shame on you!) is that in every talk we end up with: 
+                <ul>
+                <li> 'OK, I didn't understand anything'.
+                <li> 'This is cool, but how can I reap the benefits of FP in a non-pure FP language?'
+                <li> 'Can anyone show me little examples, so that I can get started?'
+                <li> 'I'm interested, but this looks too complicated for me'
+                <li> 'Functional Purity sounds like a sect, is that needed?'
+                <li> 'Did Jar Jar Binks die a painful death?'
+                </ul>
+                
+                So why don't we first understand few key concepts, like high order functions (map, reduce, filter, flatmap) & the values of immutability to become better imperative & OO programmers, then jump into Clojure?"
   subtype: presentation
   speakers: [5]
-  language: Inglés
+  language: Español
   complexity: "Intermedia"
 -
   id: 002
-  title: "Este no es el PHP de tus padres"
-  description: "Han pasado 21 años desde que la primera versión de php viese la luz.
-
-                Desde entonces el lenguaje ha ido evolucionando mientras sus desarrolladores iban encontrando nuevas necesidades y problemas a resolver.
-
-                En los últimos seis años, la evolución tanto del lenguaje como del perfil de desarrollador php ha sido brutal, y ha dotado a su cada día más exigente comunidad de herramientas y features que les hacen ser productivos ganando en calidad."
+  title: "Coordinación de equipos de trabajo y código fuente"
+  description: "En esta charla descubriremos cómo coordinar equipos de trabajo en proyectos de software y cómo gestionar código fuente.
+                
+                'Varios desarrolladores trabajando en el mismo proyecto, versión en producción, otra en integración, otra en desarrollo, a la misma vez añadiendo nuevas características al proyecto, corregir errores de
+                 producción, …'.
+                
+                A veces, coordinar todo el flujo de trabajo puede llegar a ser una tarea bastante complicada, veremos cómo hacerlo de forma organizada, entendiendo diferentes flujos de trabajo y qué herramientas usar para ello."
   subtype: presentation
   speakers: [4]
   language: Español
   complexity: "Intermedia"
 -
   id: 003
-  title: "Introduction to Kubernetes"
-  description: "Quick introduction to Kubernetes main structure and its motivation. We'll see an example on how to deploy a redmine cluster with Kubernetes in Google Cloud Platform."
+  title: "Go: de donde viene y a donde va"
+  description: "Últimamente Go está generando mucho ruido, por una parta debido a su uso por parte en MongoDB, Docker, Kubernetes, ... y por otra por las críticas sobre su 'estilo', que si no es OOP, que si carece de tal o cual, ... 
+                A vista de pájaro y con ejemplos de código veremos que es realmente Go, su origen, su lenguaje, su sencillez, conceptos, quien lo utiliza y porqué. Como cualquier otro lenguaje de desarrollo puede que nos sea útil, para más de un problema o necesidad, y no estará de más saber que está ahí.
+  "
   subtype: presentation
   speakers: [3]
   language: Español
   complexity: "Intermedia"
 -
   id: 004
-  title: "Material Animations - Show me the code!"
-  description: "Las animaciones en Material Design son muy bonitas, pero ¿cómo demonios se programan?
-
-                Animaciones y transiciones son parte central de este lenguaje de diseño. Hay cientos de ejemplos ahí fuera con maravillosas animaciones que alegran el día al usuario y le ayudan a mantener el contexto de lo que sucede en su aplicación.
-
-                Diseñarlas en Illustrator es fácil. Programarlas no tanto.
-
-                En esta charla explico con ejemplos de código:
-
-                - Cómo funciona el android.Transition Framework.
-                - Cómo crear transiciones entre activities.
-                - Cómo se anima un elemento compartido entre dos activities.
-                - Cómo se animan elementos dentro de una activity y qué opciones tenemos para hacerlo a día de hoy.
-                - Cuáles son los problemas comunes y cómo resolverlos."
+  title: "Gestionate como si fueras un equipo"
+  description: "La mayoría de las metodologías de gestión de proyectos parten de la base de que tendrás un equipo variado de personas asignadas principalmente a un proyecto. Pero, ¿qué pasa cuando estás solo, o participando en varios proyectos donde tienen metodologías y culturas de trabajo distintas? ¿Y si además de desarrollador, gestionas tu propio proyecto empresarial?
+  Vicente nos hablará de sus experiencias, metodologías que aplica, y trucos personales."
   subtype: presentation
   speakers: [6]
+  language: Español
+  complexity: "Intermedia"
+-
+  id: 005
+  title: "Por confirmar"
+  description: "Por confirmar"
+  subtype: presentation
+  speakers: [7]
   language: Español
   complexity: "Intermedia"

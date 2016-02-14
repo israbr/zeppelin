@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SevillaDevelopers "
-email: "contacto@gdgsevilla.com"
+title: "SevillaDevelopersConf "
+email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
 url: "http://www.sevilladevelopers.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
-googleAnalyticsSiteUrl: "sevilladevelopers.github.io"
+googleAnalyticsSiteUrl: "gdgsevilla.github.io"
 siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 
@@ -47,20 +47,20 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroMain: "Sevilla Developers Conf #SVQDC"
-heroTitle: "Porque aquí no se hace nada de <typeout>"
-eventDate: "Sábado, 17 de Octubre, 2015"
-typeoutTextValues: '"Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración Contínua", "DevOps"'
+heroMain: "Sevilla Developers Conf 2 #SVQDC"
+heroTitle: "Porque aquí <b>sigue</b> sin hacerse nada de <typeout>"
+eventDate: "Sábado, 12 de Marzo, 2016"
+typeoutTextValues: '"Java", "Go", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "¡Entradas agotadas!"}
+   - {permalink: "/#tickets", text: "Entradas"}
 
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Nuestros ponentes"
-rockstarSpeakersButtonText: "Ver más"
+rockstarSpeakersButtonText: "Más información"
 
 # Speakers List Block
 showSessions: true
@@ -68,62 +68,63 @@ showSessions: true
 
 # Location Block
 locationBlockTitle: "Dónde?"
-eventLocationName: "Bitnami"
-eventLocationLink: "http://bitnami.com/"
-eventStreetAddress: "Avenida República Argentina, 31B"
-eventAddressLocality: "Sevilla"
+eventLocationName: "Escuela de Organización industrial Sevilla"
+eventLocationLink: "https://www.eoi.es/es/eoi-sevilla"
+eventStreetAddress: "Calle Leonardo da Vinci, 12"
+eventAddressLocality: "Isla de la Cartuja"
 eventAddressLocalityRegion: "Sevilla"
-eventPostalCode: "41011"
+eventPostalCode: "41092"
 eventAddressCountry: "España"
-eventStartTime: "2015-10-17T10:00"
-eventDoorTime: "10:00"
-eventEndTime: "2015-10-17T14:30"
-readableDate: "Sábado 17 de Octubre 2015"
-eventPlaceCoordinates: "37.377736,-6.001971"
-mapCenterCoordinates: "37.377736,-6.001971"
-mapMobileCenterCoordinates: "37.377736,-6.001971"
+eventStartTime: "2016-03-12T09:30"
+eventDoorTime: "09:30"
+eventEndTime: "2016-03-12T18:00"
+readableDate: "Sábado 12 de Marzo 2016"
+eventPlaceCoordinates: "37.404639,-6.0087697"
+mapCenterCoordinates: "37.404639,-6.0087697"
+mapMobileCenterCoordinates: "37.404639,-6.0087697"
 
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Únete a nosotros"
-c4sponsorsUrl: "mailto:contacto@gdgsevilla.com"
+c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
 
 # Tickets Block
 tweetsFeedImage: "twitter-feed.png"
 ticketsTitle: "Entradas"
 ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
+
 -
   name: "Early Bird"
   price: "5"
   priceCurrency: "EUR"
-  ticketsNumber: "25"
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
+  ticketsNumber: "75"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopersconf/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "A la mitad de precio", "Solo tienes unos pocos días"]
-  validFrom: "2015-10-01T10:00"
-  validThrough: "2015-10-11T23:59"
-  soldOut: true
+  ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "Solo tienes unos pocos días"]
+  disabled: true
+  validFrom: "2016-02-15T12:30"
+  validThrough: "2016-02-29T23:59"
+  soldOut: false
   soldOutText: "Agotadas!"
-  ribbon: "Bitnami"
+  ribbon: "EOI"
   featured: true
-
 
 -
   name: "Last chance"
   price: "10"
   priceCurrency: "EUR"
-  ticketsNumber: "25"
+  ticketsNumber: "75"
   buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
-  buyButtonText: "Es tu ultima oportunidad"
+  buyButtonText: "Es tu última oportunidad"
   additionalInfo: ""
-  ticketContentList: [ "Para los rezagados", "No te quedes sin tuya"]
-  validFrom: "2015-10-12T00:00"
-  validThrough: "2015-10-16T23:59"
+  ticketContentList: [ "Mantenemos el precio","Para los rezagados", "No te quedes sin tuya"]
+  validFrom: "2016-03-01T00:00"
+  validThrough: "2016-03-11T17:00"
   disabled: true
-  soldOut: true
+  soldOut: false
   soldOutText: "Agotadas!"
 
 
@@ -140,51 +141,25 @@ footerBlocks:
    - {link: "http://www.meetup.com/PHP-Sevilla", text: "PHP Sevilla"}
    - {link: "http://http://www.meetup.com/SVQJUG", text: "SVQ JUG"}
    - {link: "https://plus.google.com/117186888160178861350/", text: "GDG Sevilla"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://nscoder-sev.tumblr.com/", text: "NSCoder Night Sevilla"}
 
  -
   title: "Contactar"
   links:
-   - {link: "mailto:contacto@gdgsevilla.com", text: "contacto@gdgsevilla.com"}
+   - {link: "mailto:contacto@sevilladevelopers.com", text: "contacto@sevilladevelopers.com"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
-# About tv
-teamBlockTitle: "¿Qué es SevillaDeveloperConf?"
-aboutIt: "<p>
-Aprovechando que el objetivo de este <a href='https://developers.google.com/events/devfest'>DevFest</a> es fomentar la colaboración con otras comunidades, hemos aprovechado para organizar un evento de medio día con
-algunas de las comunidades que se mueven en la ciudad.
-En esta edición tenemos a la gente de <a href='http://www.meetup.com/PHP-Sevilla'>PHPSevilla</a>, <a href='http://http://www.meetup.com/SVQJUG'>SVQJug</a> y GDGSevilla y además de contar con la increible colaboración de
-Bitnami.
- Queremos convertir esto en un evento trimestral e intentar invitar al mayor número de comunidades de ahí fuera, para que podamos cambiar la percepción de las cosas que pasan en Sevilla con ayuda de todos. Así que si
- aún no nos hemos puesto en contacto con vuestra comunidad, mandadnos un correo y para las proximas ediciones lo solucionaremos.
- </p><p>Si os preguntais el por qué del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el <a href='https://www.facebook.com/groups/sevilladevelopers/'>grupo</a> que nació en Facebook
- nos pareció el más idóneo.
- </p><p>Echadle un vistazo a las charlas y no os arrepentireis de venir.
-</p>"
+# About
+aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
+aboutCatch: "¡Volvemos a la carga con el escaparate de las distintas comunidades tecnológicas de Sevilla!"
+aboutIt: "Ya habeis comprobado que no hemos cumplido a raja tabla la trimestralidad de la iniciativa, pero para compensarlo hemos
+estado revisando vuestras respuestas a la última encuesta y hemos introducido algunos cambios: aún más contenido y más
+tiempo para poder socializar (para no morir por sobredosis de información)."
 
-# About concurso
-statisticBlockImage: "statistic.jpg"
-concursoBlockTitle: "Concurso"
-aboutConcurso: "En el concurso pueden participar cualquiera de los <span class='negrita'>asistentes a los Garages</span>, en equipos de dos personas, que deberán desarrollar y publicar antes de la última sesión una
-aplicación
-Android TV nativa (Java) que haga uso como mínimo de una de las funcionalidades de la Leanback Library. Como los GDG Garages son espacios para que la gente puede cacharrear con diferentes tecnologías, vamos a fomentar que los asistentes que no participen en el concurso puedan ayudar a cualquiera de los equipos (incluso a más de uno) de forma puntual. ¡Y con premio!
-
-          Entre todos los participantes locales a un GDG, y <span class='negrita'>siempre y cuando las aplicaciones cumplan los requisitos y un mínimo de calidad, se escogerá un equipo ganador que se cuyos integrantes se
-           llevarán un Nexus Player cada uno.</span> Además, <span class='negrita'>de entre todos los demás asistentes al Garage que hayan ayudado puntualmente al equipo ganador, se sorteará entre un par de Chromecasts
-           .</span>
-
-          ¡Pero la cosa no acaba aquí! <span class='negrita'>De entre todos los ganadores locales de los GDGs participantes, se seleccionarán tres candidatos a la final nacional, que tendrá lugar durante el DevFest
-          Barcelona el 2 de Octubre. Los gastos de desplazamiento y alojamiento de estas personas estarán cubiertos,</span> y además el equipo ganador de la final nacional se llevará un par de tickets a cualquier
-          conferencia de desarrolladores que quieran (con un máximo de 900 $ y que se puedan conseguir, que el Google I/O está así como un poco complicadete): Devvox, Droidcon, lo que sea!
-
-          Dado que este concurso lo organizamos desde el GDG Spain de forma totalmente altruista (no ganamos nada y encima ponemos tiempo), por lo general no vamos a aceptar reclamaciones de ningún tipo. El código, la
-           app, la idea, y en general todo lo que produzcáis es vuestro, pero nosotros nos reservamos la potestad de hacer cualquier aclaración a las normas que hemos expuesto. En general tiraremos
-            de
-           sentido
-           común y todo se hará público y con fair play, y esperamos que vosotros nos ayudéis con la misma actitud."
+aboutCheck: "Echale un vistazo a nuestros ponentes o al programa para saber más sobre los contenidos de esta edición"
 
 
 # Logistics Find Way Block
@@ -194,6 +169,9 @@ findWayDriving: "En Coche"
 findWayWalking: "Andando"
 findWayBicycling: "En Bicicleta"
 findWayTransit: "Autobus"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "40.121684,-8.203308"
+logisticsMapMobileCenterCoordinates: "40.121684,-8.203308"
 logisticsMapAutoDirections: false
+
+##TODO: Add it to dev calendar, sdc calendar
+##TODO: Add it to meetups (include link to entradas)
