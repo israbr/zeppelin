@@ -26,6 +26,9 @@
     time {
         display: inline-block;
     }
+    a#eventLocationLink {
+        font-weight: bold;
+    }
 }
 .canvas-map {
     position: absolute;

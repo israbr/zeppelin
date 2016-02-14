@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Sevilla "
-email: "contacto@gdgsevilla.com"
+title: "SevillaDevelopersConf "
+email: "contacto@sevilladevelopers.com"
 description: "Sesiones para aprender juntos"
 baseurl: ""
-url: "http://www.gdgsevilla.com/"
+url: "http://www.sevilladevelopers.com/"
 googleAnalyticsTrackingId: "UA-61791444-1"
 #googleAnalyticsTrackingId: "UA-64592177-1"
 googleAnalyticsSiteUrl: "gdgsevilla.github.io"
@@ -48,19 +48,19 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroMain: "Sevilla Developers Conf 2 #SVQDC"
-heroTitle: "Porque aquí no se hace nada de <typeout>"
+heroTitle: "Porque aquí <b>sigue</b> sin hacerse nada de <typeout>"
 eventDate: "Sábado, 12 de Marzo, 2016"
-typeoutTextValues: '"Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración Contínua", "DevOps"'
+typeoutTextValues: '"Java", "Go", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "¡Entradas agotadas!"}
+   - {permalink: "/#tickets", text: "Entradas"}
 
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Nuestros ponentes"
-rockstarSpeakersButtonText: "Ver más"
+rockstarSpeakersButtonText: "Más información"
 
 # Speakers List Block
 showSessions: true
@@ -68,26 +68,26 @@ showSessions: true
 
 # Location Block
 locationBlockTitle: "Dónde?"
-eventLocationName: "Bitnami"
-eventLocationLink: "http://bitnami.com/"
-eventStreetAddress: "Avenida República Argentina, 31B"
-eventAddressLocality: "Sevilla"
+eventLocationName: "Escuela de Organización industrial Sevilla"
+eventLocationLink: "https://www.eoi.es/es/eoi-sevilla"
+eventStreetAddress: "Calle Leonardo da Vinci, 12"
+eventAddressLocality: "Isla de la Cartuja"
 eventAddressLocalityRegion: "Sevilla"
-eventPostalCode: "41011"
+eventPostalCode: "41092"
 eventAddressCountry: "España"
-eventStartTime: "2016-03-12T10:00"
+eventStartTime: "2016-03-12T09:30"
 eventDoorTime: "09:30"
 eventEndTime: "2016-03-12T18:00"
 readableDate: "Sábado 12 de Marzo 2016"
-eventPlaceCoordinates: "37.377736,-6.001971"
-mapCenterCoordinates: "37.377736,-6.001971"
-mapMobileCenterCoordinates: "37.377736,-6.001971"
+eventPlaceCoordinates: "37.404639,-6.0087697"
+mapCenterCoordinates: "37.404639,-6.0087697"
+mapMobileCenterCoordinates: "37.404639,-6.0087697"
 
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Únete a nosotros"
-c4sponsorsUrl: "mailto:contacto@gdgsevilla.com"
+c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
 
 # Tickets Block
 tweetsFeedImage: "twitter-feed.png"
@@ -95,37 +95,36 @@ ticketsTitle: "Entradas"
 ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
 
-##TODO: entradas 2
 -
   name: "Early Bird"
   price: "5"
   priceCurrency: "EUR"
-  ticketsNumber: "25"
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
+  ticketsNumber: "75"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopersconf/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "A la mitad de precio", "Solo tienes unos pocos días"]
-  validFrom: "2015-10-01T10:00"
-  validThrough: "2015-10-11T23:59"
-  soldOut: true
+  ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "Solo tienes unos pocos días"]
+  disabled: true
+  validFrom: "2016-02-15T12:30"
+  validThrough: "2016-02-29T23:59"
+  soldOut: false
   soldOutText: "Agotadas!"
-  ribbon: "Bitnami"
+  ribbon: "EOI"
   featured: true
 
-##TODO: entradas 2
 -
   name: "Last chance"
   price: "10"
   priceCurrency: "EUR"
-  ticketsNumber: "25"
+  ticketsNumber: "75"
   buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
-  buyButtonText: "Es tu ultima oportunidad"
+  buyButtonText: "Es tu última oportunidad"
   additionalInfo: ""
-  ticketContentList: [ "Para los rezagados", "No te quedes sin tuya"]
-  validFrom: "2015-10-12T00:00"
-  validThrough: "2015-10-16T23:59"
+  ticketContentList: [ "Mantenemos el precio","Para los rezagados", "No te quedes sin tuya"]
+  validFrom: "2016-03-01T00:00"
+  validThrough: "2016-03-11T17:00"
   disabled: true
-  soldOut: true
+  soldOut: false
   soldOutText: "Agotadas!"
 
 
@@ -142,32 +141,25 @@ footerBlocks:
    - {link: "http://www.meetup.com/PHP-Sevilla", text: "PHP Sevilla"}
    - {link: "http://http://www.meetup.com/SVQJUG", text: "SVQ JUG"}
    - {link: "https://plus.google.com/117186888160178861350/", text: "GDG Sevilla"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://nscoder-sev.tumblr.com/", text: "NSCoder Night Sevilla"}
 
  -
   title: "Contactar"
   links:
-   - {link: "mailto:contacto@gdgsevilla.com", text: "contacto@gdgsevilla.com"}
+   - {link: "mailto:contacto@sevilladevelopers.com", text: "contacto@sevilladevelopers.com"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
 # About
-teamBlockTitle: "¿Qué es SevillaDeveloperConf?"
-aboutIt: "<p>
-¡Volvemos a la carga con el escaparate de las distintas comunidades tecnológicas de Sevilla!
-
-Ya habeis comprobado que no hemos cumplido a raja tabla la trimestralidad de la iniciativa, pero para compensarlo hemos
+aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
+aboutCatch: "¡Volvemos a la carga con el escaparate de las distintas comunidades tecnológicas de Sevilla!"
+aboutIt: "Ya habeis comprobado que no hemos cumplido a raja tabla la trimestralidad de la iniciativa, pero para compensarlo hemos
 estado revisando vuestras respuestas a la última encuesta y hemos introducido algunos cambios: aún más contenido y más
-tiempo para poder socializar (paa no morir por sobredosis de información).
+tiempo para poder socializar (para no morir por sobredosis de información)."
 
-En esta ocasión contamos con la colaboración de la <a href='https://www.eoi.es/es/eoi-sevilla'>Escuela de Organización Industrial</a> en
-cuyas instalaciones realizaremos este evento.
-
-Echale un vistazo a nuestros ponentes o al programa para saber más sobre los contenidos de esta edición
-
-"
+aboutCheck: "Echale un vistazo a nuestros ponentes o al programa para saber más sobre los contenidos de esta edición"
 
 
 # Logistics Find Way Block
@@ -177,10 +169,9 @@ findWayDriving: "En Coche"
 findWayWalking: "Andando"
 findWayBicycling: "En Bicicleta"
 findWayTransit: "Autobus"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "40.121684,-8.203308"
+logisticsMapMobileCenterCoordinates: "40.121684,-8.203308"
 logisticsMapAutoDirections: false
 
-##TODO: Cambiar el icono del gdg 2015
 ##TODO: Add it to dev calendar, sdc calendar
-##TODO: Add it to meetups (include link to ticketea)
+##TODO: Add it to meetups (include link to entradas)
