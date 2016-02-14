@@ -47,9 +47,9 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroMain: "Sevilla Developers Conf #SVQDC"
+heroMain: "Sevilla Developers Conf 2 #SVQDC"
 heroTitle: "Porque aquí no se hace nada de <typeout>"
-eventDate: "Sábado, 17 de Octubre, 2015"
+eventDate: "Sábado, 12 de Marzo, 2016"
 typeoutTextValues: '"Java", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Go", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
@@ -75,10 +75,10 @@ eventAddressLocality: "Sevilla"
 eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41011"
 eventAddressCountry: "España"
-eventStartTime: "2015-10-17T10:00"
-eventDoorTime: "10:00"
-eventEndTime: "2015-10-17T14:30"
-readableDate: "Sábado 17 de Octubre 2015"
+eventStartTime: "2016-03-12T10:00"
+eventDoorTime: "09:30"
+eventEndTime: "2016-03-12T18:00"
+readableDate: "Sábado 12 de Marzo 2016"
 eventPlaceCoordinates: "37.377736,-6.001971"
 mapCenterCoordinates: "37.377736,-6.001971"
 mapMobileCenterCoordinates: "37.377736,-6.001971"
@@ -94,6 +94,8 @@ tweetsFeedImage: "twitter-feed.png"
 ticketsTitle: "Entradas"
 ticketsInfo: "La entrada solo es válida para la sesión indicada"
 ticketsOffers:
+
+##TODO: entradas 2
 -
   name: "Early Bird"
   price: "5"
@@ -110,7 +112,7 @@ ticketsOffers:
   ribbon: "Bitnami"
   featured: true
 
-
+##TODO: entradas 2
 -
   name: "Last chance"
   price: "10"
@@ -151,40 +153,21 @@ footerBlocks:
   links:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
-# About tv
+# About
 teamBlockTitle: "¿Qué es SevillaDeveloperConf?"
 aboutIt: "<p>
-Aprovechando que el objetivo de este <a href='https://developers.google.com/events/devfest'>DevFest</a> es fomentar la colaboración con otras comunidades, hemos aprovechado para organizar un evento de medio día con
-algunas de las comunidades que se mueven en la ciudad.
-En esta edición tenemos a la gente de <a href='http://www.meetup.com/PHP-Sevilla'>PHPSevilla</a>, <a href='http://http://www.meetup.com/SVQJUG'>SVQJug</a> y GDGSevilla y además de contar con la increible colaboración de
-Bitnami.
- Queremos convertir esto en un evento trimestral e intentar invitar al mayor número de comunidades de ahí fuera, para que podamos cambiar la percepción de las cosas que pasan en Sevilla con ayuda de todos. Así que si
- aún no nos hemos puesto en contacto con vuestra comunidad, mandadnos un correo y para las proximas ediciones lo solucionaremos.
- </p><p>Si os preguntais el por qué del nombre, hemos querido usar uno que fuera lo más inclusivo en cuanto a tecnologias y el <a href='https://www.facebook.com/groups/sevilladevelopers/'>grupo</a> que nació en Facebook
- nos pareció el más idóneo.
- </p><p>Echadle un vistazo a las charlas y no os arrepentireis de venir.
-</p>"
+¡Volvemos a la carga con el escaparate de las distintas comunidades tecnológicas de Sevilla!
 
-# About concurso
-statisticBlockImage: "statistic.jpg"
-concursoBlockTitle: "Concurso"
-aboutConcurso: "En el concurso pueden participar cualquiera de los <span class='negrita'>asistentes a los Garages</span>, en equipos de dos personas, que deberán desarrollar y publicar antes de la última sesión una
-aplicación
-Android TV nativa (Java) que haga uso como mínimo de una de las funcionalidades de la Leanback Library. Como los GDG Garages son espacios para que la gente puede cacharrear con diferentes tecnologías, vamos a fomentar que los asistentes que no participen en el concurso puedan ayudar a cualquiera de los equipos (incluso a más de uno) de forma puntual. ¡Y con premio!
+Ya habeis comprobado que no hemos cumplido a raja tabla la trimestralidad de la iniciativa, pero para compensarlo hemos
+estado revisando vuestras respuestas a la última encuesta y hemos introducido algunos cambios: aún más contenido y más
+tiempo para poder socializar (paa no morir por sobredosis de información).
 
-          Entre todos los participantes locales a un GDG, y <span class='negrita'>siempre y cuando las aplicaciones cumplan los requisitos y un mínimo de calidad, se escogerá un equipo ganador que se cuyos integrantes se
-           llevarán un Nexus Player cada uno.</span> Además, <span class='negrita'>de entre todos los demás asistentes al Garage que hayan ayudado puntualmente al equipo ganador, se sorteará entre un par de Chromecasts
-           .</span>
+En esta ocasión contamos con la colaboración de la <a href='https://www.eoi.es/es/eoi-sevilla'>Escuela de Organización Industrial</a> en
+cuyas instalaciones realizaremos este evento.
 
-          ¡Pero la cosa no acaba aquí! <span class='negrita'>De entre todos los ganadores locales de los GDGs participantes, se seleccionarán tres candidatos a la final nacional, que tendrá lugar durante el DevFest
-          Barcelona el 2 de Octubre. Los gastos de desplazamiento y alojamiento de estas personas estarán cubiertos,</span> y además el equipo ganador de la final nacional se llevará un par de tickets a cualquier
-          conferencia de desarrolladores que quieran (con un máximo de 900 $ y que se puedan conseguir, que el Google I/O está así como un poco complicadete): Devvox, Droidcon, lo que sea!
+Echale un vistazo a nuestros ponentes o al programa para saber más sobre los contenidos de esta edición
 
-          Dado que este concurso lo organizamos desde el GDG Spain de forma totalmente altruista (no ganamos nada y encima ponemos tiempo), por lo general no vamos a aceptar reclamaciones de ningún tipo. El código, la
-           app, la idea, y en general todo lo que produzcáis es vuestro, pero nosotros nos reservamos la potestad de hacer cualquier aclaración a las normas que hemos expuesto. En general tiraremos
-            de
-           sentido
-           común y todo se hará público y con fair play, y esperamos que vosotros nos ayudéis con la misma actitud."
+"
 
 
 # Logistics Find Way Block
@@ -197,3 +180,7 @@ findWayTransit: "Autobus"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
+
+##TODO: Cambiar el icono del gdg 2015
+##TODO: Add it to dev calendar, sdc calendar
+##TODO: Add it to meetups (include link to ticketea)
