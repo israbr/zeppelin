@@ -1,9 +1,15 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Networking y cierre de puertas"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Aprovecha para intercambiar formas de contacto"
+-
+  id: 308
+  title: "Almuerzo y Networking"
+  place: "Hall"
+  service: true
+  description: "Reponer fuerzas y conocer nuevas personas"
 -
   id: 503
   title: "Apetura de puertas y registro"
@@ -62,8 +68,8 @@
   complexity: "Intermedia"
 -
   id: 005
-  title: "Por confirmar"
-  description: "Por confirmar"
+  title: "¿Qué es el Big Data? Un enfoque práctico"
+  description: "En esta sesión haremos una introducción de las tecnologías existentes para el análisis y procesamiento de grandes cantidades de información desde un punto de vista teórico pero sin profundizar demasiado. Hablaremos sobre MapReduce y qué papel juega en la actualidad, sus descendientes y por qué ha dejado de ser el paradigma de programación de-facto en estos escenarios. Por último, se mostrará un pequeño caso práctico con Hive (prueba de concepto) y un ejemplo de reporting (Power BI, presumiblemente)."
   subtype: presentation
   speakers: [7]
   language: Español

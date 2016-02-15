@@ -50,7 +50,7 @@ heroImage: "hero.jpg"
 heroMain: "Sevilla Developers Conf 2 #SVQDC"
 heroTitle: "Porque aquí <b>sigue</b> sin hacerse nada de <typeout>"
 eventDate: "Sábado, 12 de Marzo, 2016"
-typeoutTextValues: '"Java", "Go", "Android", "PHP", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
+typeoutTextValues: '"Java", "Go", "Android", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
    - {permalink: "/#tickets", text: "Entradas"}
@@ -104,7 +104,7 @@ ticketsOffers:
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
   ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "Solo tienes unos pocos días"]
-  disabled: true
+  disabled: false
   validFrom: "2016-02-15T12:30"
   validThrough: "2016-02-29T23:59"
   soldOut: false

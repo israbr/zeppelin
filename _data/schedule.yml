@@ -2,7 +2,7 @@
   date: "2015-10-17"
   dateReadable: "17 de Octubre"
   tracks:
-    - {title: "Bitnami", color: "#90be4e"}
+    - {title: "EOI Sevilla", color: "#90be4e"}
   timeslots:
 
     - {
@@ -23,10 +23,25 @@
     - {
     	startTime: "12:00",
     	endTime: "12:50",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:30",
+    	sessionIds: [308]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "15:20",
     	sessionIds: [004]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "13:50",
-    	sessionIds: [003]
+    	startTime: "15:30",
+    	endTime: "16:20",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:30",
+    	sessionIds: [307]
     }
