@@ -152,14 +152,17 @@ footerBlocks:
   links:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
+ -
+  title: "Ediciones previas"
+  links:
+   - {link: "http://old.sevilladevelopers.com", text: "Primera edición"}
+
 # About
 aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
 aboutCatch: "¡Volvemos a la carga con el escaparate de las distintas comunidades tecnológicas de Sevilla!"
 aboutIt: "Ya habeis comprobado que no hemos cumplido a raja tabla la trimestralidad de la iniciativa, pero para compensarlo hemos
 estado revisando vuestras respuestas a la última encuesta y hemos introducido algunos cambios: aún más contenido y más
 tiempo para poder socializar (para no morir por sobredosis de información)."
-
-aboutCheck: "Echale un vistazo a nuestros ponentes o al programa para saber más sobre los contenidos de esta edición"
 
 
 # Logistics Find Way Block
