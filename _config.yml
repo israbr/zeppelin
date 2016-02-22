@@ -103,7 +103,7 @@ ticketsOffers:
   buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopersconf/"
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
-  ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "Solo tienes unos pocos días"]
+  ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "¡Sólo hasta el 29 de Febrero!"]
   disabled: false
   validFrom: "2016-02-15T12:30"
   validThrough: "2016-02-29T23:59"
@@ -175,6 +175,3 @@ findWayTransit: "Autobus"
 logisticsMapCenterCoordinates: "40.121684,-8.203308"
 logisticsMapMobileCenterCoordinates: "40.121684,-8.203308"
 logisticsMapAutoDirections: false
-
-##TODO: Add it to dev calendar, sdc calendar
-##TODO: Add it to meetups (include link to entradas)
