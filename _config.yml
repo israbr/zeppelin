@@ -104,28 +104,28 @@ ticketsOffers:
   buyButtonText: "Aprovecha!"
   additionalInfo: ""
   ticketContentList: [ "Vuelven por petición popular", "A la mitad de precio", "¡Sólo hasta el 29 de Febrero!"]
-  disabled: false
+  disabled: true
   validFrom: "2016-02-15T12:30"
   validThrough: "2016-02-29T23:59"
-  soldOut: false
+  soldOut: true
   soldOutText: "Agotadas!"
   ribbon: "EOI"
-  featured: true
 
 -
   name: "Last chance"
   price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "75"
-  buyButtonLink: "https://www.ticketea.com/entradas-charla-svqdc/"
+  buyButtonLink: "https://www.ticketea.com/entradas-charla-sevilladevelopersconf/"
   buyButtonText: "Es tu última oportunidad"
   additionalInfo: ""
-  ticketContentList: [ "Mantenemos el precio","Para los rezagados", "No te quedes sin tuya"]
+  ticketContentList: [ "Mantenemos el precio de la edición anterior","Para los rezagados", "No te quedes sin la tuya"]
   validFrom: "2016-03-01T00:00"
   validThrough: "2016-03-11T17:00"
-  disabled: true
+  disabled: false
   soldOut: false
   soldOutText: "Agotadas!"
+  featured: true
 
 
 # Footer
