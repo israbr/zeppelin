@@ -8,3 +8,4 @@
   elements:
     - {name: "EOI", description: "Escuela de Organización Industrial", link: "https://www.eoi.es/es/eoi-sevilla", imageUrl: "eoi.png", width: "120px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "JetBrains", description: "The drive to develop. Create Anything", link: "https://www.jetbrains.com/", imageUrl: "logo_JetBrains.svg", width: "120px"}
