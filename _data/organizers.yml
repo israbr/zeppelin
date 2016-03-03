@@ -1,7 +1,7 @@
 - 
 #  group: "Comunidades que colaboran"
   elements: 
-    - {name: "SVQJUG", link: "http://www.meetup.com/SVQJUG", imageUrl: "svqjug.png"}
-    - {name: "NSCoder Night Sevilla", link: "http://nscoder-sev.tumblr.com/", imageUrl: "nsc_sevng.png"}
-    - {name: "GDG Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png"}
-    - {name: "PHP Sevilla", link: "http://www.meetup.com/PHP-Sevilla/", imageUrl: "php.jpeg"}
+    - {name: "SVQJUG", link: "http://www.meetup.com/SVQJUG", imageUrl: "svqjug.png", width: "120px"}
+    - {name: "NSCoder Night Sevilla", link: "http://nscoder-sev.tumblr.com/", imageUrl: "nsc_sevng.png", width: "120px"}
+    - {name: "GDG Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png", width: "120px"}
+    - {name: "PHP Sevilla", link: "http://www.meetup.com/PHP-Sevilla/", imageUrl: "php.jpeg", width: "120px"}
