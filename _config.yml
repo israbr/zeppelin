@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
-# - {permalink: "/#partners", text: "Organizan"}
+ - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -85,7 +85,7 @@ mapMobileCenterCoordinates: "37.404639,-6.0087697"
 
 # Partners Block
 organizersTitle: "Organizan"
-partnersTitle: "Partners"
+partnersTitle: "Patrocinan"
 partnersC4sponsorsButton: "Únete a nosotros"
 c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
 
@@ -130,9 +130,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/117186888160178861350/about", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGSevilla", icon: "twitter"}
- - {link: "https://www.facebook.com/pages/Sevilla-GDG/198294916872055", icon: "facebook"}
+ - {link: "https://twitter.com/search?q=%23SVQDC", icon: "twitter"}
+ - {link: "https://www.facebook.com/groups/sevilladevelopers/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

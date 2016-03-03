@@ -1,4 +1,10 @@
 -
-  group: "Con el apoyo de"
+  group: "Partners"
   elements: 
+#    - {name: "Evoxon", description: "¡Organízate y Vende!", link: "http://www.evoxon.com/", imageUrl: "evoxon.jpg", width: "360px"}
+    - {name: "CPIIA", description: "Colegio Profesional de Ingenieros en Informática de Andalucía", link: "http://cpiiand.es/", imageUrl: "logo_CPIIA.jpg", width: "360px"}
+-
+  group: "Colaboran"
+  elements:
+    - {name: "EOI", description: "Escuela de Organización Industrial", link: "https://www.eoi.es/es/eoi-sevilla", imageUrl: "eoi.png", width: "120px"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}

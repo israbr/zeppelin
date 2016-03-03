@@ -1,10 +1,7 @@
 - 
-  group: "Principal organizador"
+#  group: "Comunidades que colaboran"
   elements: 
-    - {name: "GDG Sevilla", description: "GDG Sevilla - Compartiendo conocimiento sobre nuevas tecnologías en la ciudad de Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png"}
-- 
-  group: "Co-organizadores"
-  elements: 
-    - {name: "Espacio RES", description: "Innovacion social = (Startups + Tecnolgia) * Creatividad", link: "http://espacio-res.org", imageUrl: "logo-res-gris.png"}
-#    - {name: "47Degrees", description: "47 Degrees is a global consulting firm with a focus on software development", link: "http://www.47deg.com", imageUrl: "logo-47-Red.png"}
-    - {name: "Bitnami", description: "Bitnami makes it easy to run your favorite server apps anywhere", link: "http://bitnami.com", imageUrl: "logo-bitnami.png"}
+    - {name: "SVQJUG", link: "http://www.meetup.com/SVQJUG", imageUrl: "svqjug.png"}
+    - {name: "NSCoder Night Sevilla", link: "http://nscoder-sev.tumblr.com/", imageUrl: "nsc_sevng.png"}
+    - {name: "GDG Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png"}
+    - {name: "PHP Sevilla", link: "http://www.meetup.com/PHP-Sevilla/", imageUrl: "php.jpeg"}
