@@ -38,22 +38,22 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
-# - {permalink: "/", text: "Home"}
-# - {permalink: "/#tickets", text: "Entradas"}
-# - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
-# - {permalink: "/schedule/", text: "Agenda"}
-# - {permalink: "/#location-map", text: "¿Dónde?"}
-# - {permalink: "/#partners", text: "Organizan"}
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/#tickets", text: "Entradas"}
+ - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/#location-map", text: "¿Dónde?"}
+ - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroMain: "Sevilla Developers Conf 3 #SVQDC"
-heroTitle: "<typeout>"
-eventDate: "Sábado, 18 de Febrero, 2017"
-typeoutTextValues: '"./gradlew build version3", "go build SDC3", "refresh PHP", "gem install charlas", "publish draft WordPress", "install XamarinTalk -d Sevilla", "git clone drinks"'
-typeoutFallback: "Compilando charlas, por favor espere..."
-#heroButtons:
-#   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
+heroMain: "Sevilla Developers Conf 2 #SVQDC"
+heroTitle: "Porque aquí <b>sigue</b> sin hacerse nada de <typeout>"
+eventDate: "Sábado, 12 de Marzo, 2016"
+typeoutTextValues: '"Java", "Go", "Android", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
+typeoutFallback: "tecnología"
+heroButtons:
+   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
 
 
 # Rockstar Speakers Block
