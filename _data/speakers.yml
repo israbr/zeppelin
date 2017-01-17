@@ -1,63 +1,70 @@
 - 
   id: 3
-  name: "Antonio"
-  surname: "Cortés"
-  company: "Ximdex"
+  name: "Macarena (Maki)"
+  surname: "Madero"
+  company: "Tramallol"
   title: "Technical Lead Architec"
-  bio: "Soy un gallego con más de 20 años como desarrollador y los últimos 16 años en Sevilla, a la que llegué para trabajar en Arrakis. Disfruto probando tecnología y aplicándola a proyectos para realmente saber para que sirve. Me gusta programar, probar otras formas de resolver el mismo problema, con otros lenguajes, otros paradigmas, otros algoritmos, ...  Sin lugar a dudas el empezar hace dos décadas con sistemas (AIX, AS/400,Xenix,Windows,...) me sirvió para entender que 'hay mil soluciones para cada problema, pero no todas son igual de válidas o recomendables' así que, siempre buscando y probando, tirando código y disfrutando."
-  thumbnailUrl: antonio.jpg
+  bio: "Trabaja como programadora web en la cooperativa Tramallol, haciendo internet como un proceso participativo, promoviendo el acceso y la capacitación digital de la ciudadanía y el desarrollo y
+  difusión de software libre."
+  thumbnailUrl: maki.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/drzippie"}
+    - {name: "twitter", link: "https://twitter.com/pingmujeres"}
 
 -
   id: 4
-  name: "Miguel Ángel"
-  surname: "Martín"
-  company: "Oblumi"
-  title: "Software Manager"
-  bio: "Ingeniero Técnico en Informática de Gestión especializado en el desarrollo de proyectos software.
-  Actualmente aprendiendo y divirtiéndome cada día en Oblumi, startup de la que soy cofundador. Amante de las metodologías ágiles y la productividad personal.
-  Organizador y ponente de la comunidad de <a href='http://www.meetup.com/PHP-Sevilla/'>PHP en Sevilla.</a>"
-  thumbnailUrl: miguel.png
+  name: "Dr. Pedro J."
+  surname: "Molina"
+  company: "Metadev"
+  title: "Founder"
+  bio: "Pedro J. es Doctor en Informática especializado en modelado y generación de código. Desde Metadev construye herramientas para microservicios y proporciona consultoría y formación en Microservicios,
+  Typescript, NodeJS, AngularJS2, MongoDB y Docker. Previamente ha trabajado en empresas de producto como CTO y Director de I+D en Icinetic y como Arquitecto de Software en Capgemini.
+  Le gusta remangarse a diario para escribir código."
+  thumbnailUrl: pjmolina.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/miguelbemartin"}
-- 
+    - {name: "twitter", link: "https://twitter.com/pmolinam"}
+    - {name: "Github", link: "https://github.com/pjmolina"}
+    - {name: "site", link: "https://metadev.pro"}
+-
   id: 5
-  name: "Diego"
-  surname: "Freniche"
-  company: "Mobile Jazz"
-  title: "Mobile Developer (iOS / Android)"
-  bio: "Computer nerd, retrocomputer collector, Amstrad & Amiga lover, iOS/Android developer. Sometimes speak at places. 100% FrauDev"
-  thumbnailUrl: diego.png
+  name: "Ana"
+  surname: "Trujillo Ruiz"
+  company: "Genera Games"
+  title: "Video Games Quality Assurance"
+  bio: "Ana Trujillo es una enamorada del Pixel Art y asistente activa de las quedadas del grupo local de Sevilla de Pixels and Coffee,
+  viene a compartir con nosotros experiencias y procesos de calidad en el sector de los videojuegos."
+  thumbnailUrl: ana.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/dfreniche"}
+    - {name: "twitter", link: "https://twitter.com/anaandtheants"}
 
 - 
   id: 6
-  name: "Vicente"
-  surname: "Herrera"
-  company: "WakLab.com"
-  title: "Ingeniero Informático"
-  bio: "Ingeniero Informático por la Universidad de Sevilla, participa como freelance en proyectos para pequeñas, grandes empresas y organismos públicos, en proyectos de investigación de la universidad, e imparte
-  cursos para empresas privadas y a nivel universitario y de master. Iniciador del recién creado grupo de conocimiento <a href='gesprosev.com'> 'Gestión de Proyectos Sevilla'</a> "
-  thumbnailUrl: vicente.jpg
+  name: "Javier"
+  surname: "Suárez Ruiz"
+  company: "Plain Concepts"
+  title: "Software Development Engineer"
+  bio: " Desarrollador, Microsoft MVP y coordinador de CartujaDotNet, grupo de usuarios .NET de Sevilla y de SVQXDG, grupo de desarrolladores Xamarin de Sevilla."
+  thumbnailUrl: javier.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/Vicen_Herrera"}
+    - {name: "twitter", link: "https://twitter.com/jsuarezruiz"}
+    - {name: "github", link: "https://github.com/jsuarezruiz"}
 
 
 -
   id: 7
-  name: "Jesús Antonio"
-  surname: "Sánchez Méndez"
-  company: "Plain Concepts"
-  title: "Big Data/BI Developer"
-  bio: "A very passionate person who likes technology and coding in general. For me, this is not even a job, it is a hobby. I love coding, and I love imagine working on something that I love. Finally, as person, I
-  would say from myself that I am so enthusiastic and a guy with a high level of commitment."
-  thumbnailUrl: jesus.jpg
+  name: "Julián"
+  surname: "Gómez"
+  company: "Leda MC"
+  title: "Director de Proyectos, Consultor Senior Productividad del Software"
+  bio: "Director de Proyectos y Servicios. Escribe. Ingeniero Informático. Profesionalmente ha ido evolucionando desde desarrollar software hasta dirigir proyectos, pasando por la gestión de servicios, aseguramiento de
+  la calidad, auditorías de productividad, consultoría de procesos, gestión de proveedores, consultoría de sourcing, PMO, innovación y alguna que otra cosita más. Siempre mirando de forma diferente.
+  La única constante el cambio."
+  thumbnailUrl: julian.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/zNk"}
+    - {name: "twitter", link: "https://twitter.com/fjuliangomez"}
+    - {name: "site", link: "http://fjuliangomez.com"}
+    - {name: "site", link: "http://www.laboratorioti.com"}

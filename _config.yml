@@ -22,16 +22,16 @@ siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 
 # Organizer Info
-organizerName: "GDG Sevilla"
-organizerAlternateName: "Google Developer Group Sevilla"
-organizerDescription: "Grupo sin ánimo de lucro cuyo objetivo es el de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías proporcionadas por Google."
-organizerEmail: "contacto@gdgsevilla.com"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://plus.google.com/117186888160178861350/about"
+organizerName: "Sevilla Deverlopers"
+organizerAlternateName: "Grupo de desarrolladores y desarrolladoras en Sevilla"
+organizerDescription: "Grupo sin ánimo de lucro cuyo objetivo es el de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías de la información"
+organizerEmail: "contacto@sevilladevelopers.com"
+organizerLogo: ""
+organizerLink: "https://www.facebook.com/groups/sevilladevelopers/"
 
 # Head
-metaKeywords: "android, evento, gdg, google, developers, sevilla, desarrollo, event"
-twitterAccount: "@GDGSevilla"
+metaKeywords: "conferencia, evento, gdg, jug, tecnologia, developers, sevilla, desarrollo, event"
+twitterAccount: "#SVQDEV"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -41,19 +41,20 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#tickets", text: "Entradas"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
- - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule", text: "Agenda"}
  - {permalink: "/#location-map", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroMain: "Sevilla Developers Conf 2 #SVQDC"
-heroTitle: "Porque aquí <b>sigue</b> sin hacerse nada de <typeout>"
-eventDate: "Sábado, 12 de Marzo, 2016"
-typeoutTextValues: '"Java", "Go", "Android", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
+heroMain: "Sevilla Developers Conf 3 #SVQDC"
+heroTitle: "Porque aquí <b>ya empiezan</b> a hacerse cosas de <typeout>"
+eventDate: "Sábado, 18 de Febrero, 2017"
+typeoutTextValues: '"Java", "Go", "Microservicios", "PHP", "Swift", "Ruby", "JavaScript", "Python", "WordPress", "Xamarin", ".NET", "Kotlin", "Angular", "Perl", "Integración Contínua", "DevOps"'
 typeoutFallback: "tecnología"
 heroButtons:
-   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
+#   - {permalink: "/#tickets", text: "Nos vemos en la próxima!"}
+   - {permalink: "/schedule", text: "Ya están confirmadas las charlas!"}
 
 
 # Rockstar Speakers Block
@@ -64,7 +65,6 @@ rockstarSpeakersButtonText: "Más información"
 
 # Speakers List Block
 showSessions: true
-
 
 # Location Block
 locationBlockTitle: "Dónde?"
@@ -158,10 +158,10 @@ footerBlocks:
 
 # About
 aboutBlockTitle: "¿Qué es SevillaDeveloperConf?"
-aboutCatch: "¡Volvemos a la carga con el escaparate de las distintas comunidades tecnológicas de Sevilla!"
-aboutIt: "Ya habeis comprobado que no hemos cumplido a raja tabla la trimestralidad de la iniciativa, pero para compensarlo hemos
-estado revisando vuestras respuestas a la última encuesta y hemos introducido algunos cambios: aún más contenido y más
-tiempo para poder socializar (para no morir por sobredosis de información)."
+aboutCatch: "Este evento de eventos nace desde el grupo de <a href='https://www.facebook.com/groups/sevilladevelopers/'>SevillaDevelopers en Facebook</a>
+            como una iniciativa para fomentar tanto las distintas comunidades tecnológicas de Sevilla como tambien para darnos oportunidad de, durante un día, ver cómo resuelven sus
+            retos en otras plataformas o lenguajes."
+aboutIt: "Un solo track para poder aprovechar al maximo las conversaciones entre desarrolladores y desarrolladoras de distintas areas"
 
 
 # Logistics Find Way Block

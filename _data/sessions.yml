@@ -17,59 +17,46 @@
   service: true
 -
   id: 001
-  title: "Why Functional Programming matters?"
-  description: "FP is all the rage right now. You can hear about it all the time. The problem for us, poor Object Oriented developers 
-  (or even worst, imperative C programmers, shame on you!) is that in every talk we end up with: 
-                <ul>
-                <li> 'OK, I didn't understand anything'.
-                <li> 'This is cool, but how can I reap the benefits of FP in a non-pure FP language?'
-                <li> 'Can anyone show me little examples, so that I can get started?'
-                <li> 'I'm interested, but this looks too complicated for me'
-                <li> 'Functional Purity sounds like a sect, is that needed?'
-                <li> 'Did Jar Jar Binks die a painful death?'
-                </ul>
-                
-                So why don't we first understand few key concepts, like high order functions (map, reduce, filter, flatmap) & the values of immutability to become better imperative & OO programmers, then jump into Clojure?"
+  title: "El mito del Betatester"
+  description: "Durante la charla os pondréis en la piel de un betatester de videojuegos. Se contará qué puntos se atacan para buscar errores, cómo se gestiona la información con los departamentos de desarrollo,
+  herramientas utilizadas para el testing... en general el ciclo de cómo se gestionan los fallos desde que se encuentran hasta que se solucionan. Cómo determinar fallos críticos que bloquean la subida de las aplicaciones
+   a las store, conocer la demanda de pruebas que realizamos y cómo lidiar con el mantenimiento de aplicaciones que se encuentran en mantenimiento de updates periódicos."
   subtype: presentation
   speakers: [5]
   language: Español
-  complexity: "Intermedia"
+  complexity: "Intro"
 -
   id: 002
-  title: "Coordinación de equipos de trabajo y código fuente"
-  description: "En esta charla descubriremos cómo coordinar equipos de trabajo en proyectos de software y cómo gestionar código fuente.
-                
-                'Varios desarrolladores trabajando en el mismo proyecto, versión en producción, otra en integración, otra en desarrollo, a la misma vez añadiendo nuevas características al proyecto, corregir errores de
-                 producción, …'.
-                
-                A veces, coordinar todo el flujo de trabajo puede llegar a ser una tarea bastante complicada, veremos cómo hacerlo de forma organizada, entendiendo diferentes flujos de trabajo y qué herramientas usar para ello."
+  title: "Tecnologías para Microservicios. Un ejemplo sobre el stack MEAN"
+  description: "Microservicios: más allá del “vaporware” o moda que representan, hay principios sólidos y ventajas claras a la hora de aplicar este patrón de arquitectura a nuestros desarrollos. Repasaremos sus virtudes
+  y defectos sobre ejemplos reales sobre stack MEAN junto con tecnología y estándares disponibles para usarlos de forma efectiva como son Swagger o HAL y métodos de despliegue, escalado y operación con Docker."
   subtype: presentation
   speakers: [4]
   language: Español
   complexity: "Intermedia"
 -
   id: 003
-  title: "Go: de donde viene y a donde va"
-  description: "Últimamente Go está generando mucho ruido, por una parta debido a su uso por parte en MongoDB, Docker, Kubernetes, ... y por otra por las críticas sobre su 'estilo', que si no es OOP, que si carece de tal o cual, ... 
-                A vista de pájaro y con ejemplos de código veremos que es realmente Go, su origen, su lenguaje, su sencillez, conceptos, quien lo utiliza y porqué. Como cualquier otro lenguaje de desarrollo puede que nos sea útil, para más de un problema o necesidad, y no estará de más saber que está ahí.
-  "
+  title: "Abriendo el código"
+  description: "Por confirmar"
   subtype: presentation
   speakers: [3]
   language: Español
   complexity: "Intermedia"
 -
   id: 004
-  title: "Gestionate como si fueras un equipo"
-  description: "La mayoría de las metodologías de gestión de proyectos parten de la base de que tendrás un equipo variado de personas asignadas principalmente a un proyecto. Pero, ¿qué pasa cuando estás solo, o participando en varios proyectos donde tienen metodologías y culturas de trabajo distintas? ¿Y si además de desarrollador, gestionas tu propio proyecto empresarial?
-  Vicente nos hablará de sus experiencias, metodologías que aplica, y trucos personales."
+  title: "Bienvenidos al mundo holográfico"
+  description: "¿Has oído hablar de HoloLens?, ¿probaste las posibilidades de la realidad aumentada?. Pásate por esta sesión para conocer Hololens, sus características, así como el desarrollo con Wave Engine viendo
+  algunas demos mostrando el nuevo mundo de posibilidades que nos facilitan los hologramas. ¿Crees que podemos crear el sistema solar en 45 min.?. Tendrás que asistir para averiguarlo."
   subtype: presentation
   speakers: [6]
   language: Español
   complexity: "Intermedia"
 -
   id: 005
-  title: "¿Qué es el Big Data? Un enfoque práctico"
-  description: "En esta sesión haremos una introducción de las tecnologías existentes para el análisis y procesamiento de grandes cantidades de información desde un punto de vista teórico pero sin profundizar demasiado. Hablaremos sobre MapReduce y qué papel juega en la actualidad, sus descendientes y por qué ha dejado de ser el paradigma de programación de-facto en estos escenarios. Por último, se mostrará un pequeño caso práctico con Hive (prueba de concepto) y un ejemplo de reporting (Power BI, presumiblemente)."
+  title: "El Juego de Tronos de los Proyectos: Lo que debes saber para que tu Proyecto no termine en el Muro."
+  description: "¿Te suenan Lannister, Stark, Targaryen, Nieve? ¿Te suenan las Tierras de Poniente, los caminantes blancos, la guardia de la noche o el pueblo libre? Pues ellos saben mucho sobre Dirección de Proyectos y
+  eso es lo que te van a enseñar en esta charla ¡Qué tienes que saber para que tu proyecto no acabe en el muro! Spoiler: seguro que se pasaran algunos amigos como Tyrion, Joffrey, Daenerys, Eddard, Rob, ...
+  y alguna sorpresa más."
   subtype: presentation
   speakers: [7]
   language: Español
