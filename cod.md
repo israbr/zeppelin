@@ -8,7 +8,7 @@ isStaticPost: true
 __Esta política de "No seas idiota" es una version más corta y relajada de [esta](http://meta.wikimedia .org/wiki/Don%27t_be_a_dick).__
 
 
-En el GDG de Sevilla nos gusta pensar que respetamos a todas las personas que a su vez respeten a las demás. Eso quiere decir que no vamos a permitir comportamiento idiota en este evento. Como sabemos que la definición
+En el grupo de SevillaDevelopers nos gusta pensar que respetamos a todas las personas que a su vez respeten a las demás. Eso quiere decir que no vamos a permitir comportamiento idiota en este evento. Como sabemos que la definición
 de lo que es ser un idiota o no puede no ser obvia para algunas personas, aquí tenemos una lista NO exhaustiva de las cosas que no permitiríamos: bromas o comentarios ofensivos sobre
 género/orientación sexual/raza/religión/nacionalidad/complexión, mostrar porno en público, tocar a la gente de forma inapropiada sin ningún tipo de invitación o seguir relacionándose con alguien que nos haya pedido
 amablemente que no lo hagamos más. Reincidir en dichos comportamientos podría resultar en la expulsión del evento (y dado el caso, del GDG).
@@ -20,4 +20,5 @@ Hagamos de este evento algo increíble ;-)
 
 ######Contacts:
 
-- Israel Boza, [contacto@gdgsevilla.com](mailto:contacto@gdgsevilla.com)
+- Israel Boza, [contacto@sevilladevelopers.com](mailto:contacto@sevilladevelopers.com)
+- DavidJGuru, [davidjguru@gmail.com](davidjguru@gmail.com)
