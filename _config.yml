@@ -39,10 +39,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#tickets", text: "Entradas"}
+# - {permalink: "/#tickets", text: "Entradas"}
  - {permalink: "/#aboutSDC", text: "¿En qué consiste?"}
  - {permalink: "/schedule", text: "Agenda"}
- - {permalink: "/#location-map", text: "¿Dónde?"}
+ - {permalink: "/#location-tbc", text: "¿Dónde?"}
  - {permalink: "/#partners", text: "Organizan"}
 
 # Hero Block
@@ -82,10 +82,11 @@ readableDate: "Sábado 12 de Marzo 2016"
 eventPlaceCoordinates: "37.404639,-6.0087697"
 mapCenterCoordinates: "37.404639,-6.0087697"
 mapMobileCenterCoordinates: "37.404639,-6.0087697"
+locationTbc: "Por confirmar"
 
 # Partners Block
 organizersTitle: "Organizan"
-partnersTitle: "Patrocinan"
+partnersTitle:
 partnersC4sponsorsButton: "Únete a nosotros"
 c4sponsorsUrl: "mailto:contacto@sevilladevelopers.com"
 

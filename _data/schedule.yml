@@ -2,7 +2,7 @@
   date: "2016-03-12"
   dateReadable: "12 de Marzo"
   tracks:
-    - {title: "EOI Sevilla", color: "#90be4e"}
+    - {title: "Por confirmar", color: "#90be4e"}
   timeslots:
 
     - {
@@ -17,7 +17,7 @@
     }
     - {
         startTime: "11:00",
-        endTime: "11:50",
+        endTime: "12:00",
         sessionIds: [002]
     }
     - {
