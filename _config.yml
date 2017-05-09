@@ -32,7 +32,7 @@ organizerLink: "https://www.facebook.com/groups/sevilladevelopers/"
 # Head
 metaKeywords: "conferencia, evento, gdg, jug, tecnologia, developers, sevilla, desarrollo, event"
 twitterAccount: "@SevillaDevelope"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcGooglePlus: "/img/seo/share-GP-big.png"
 socialImageSrcTwitter: "/img/seo/share-TW-big.png"
 socialImageSrcFacebook: "/img/seo/share-FB-big.png"
 
@@ -91,8 +91,11 @@ partnersTitle:
 partnersC4sponsorsButton: "Únete a nosotros"
 c4sponsorsUrl: "https://www.facebook.com/groups/sevilladevelopers/"
 
-# Tickets Block
 tweetsFeedImage: "twitter-feed.png"
+twitterFeed: "https://twitersdc.000webhostapp.com/searchjson.php?q=%23SVQDC&c=10&cache_interval=8000"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "SVQDC"
+# Tickets Block
 ticketsTitle: "Entradas"
 ticketsTitle2: "Desglose de las Entradas"
 ticketsInfo: "Al precio de las entradas hay que añadirle las comisiones de Ticketea. Todas las entradas incluyen el legendario almuerzo de la edición anterior, WOHOOOOOOO"
